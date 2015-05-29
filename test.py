@@ -1,58 +1,40 @@
 # -*- coding:utf-8 -*-
 
-r = ['a','b','c','d']
-n = 3
-for i in range(n):
-	print r[i]
+L = ['Michael','Sarah','Bob']
+print L[0]
+print L[0:3]
+print L[:3]
+print L[1:3]
 
-#切片
-print r[0:3]
-print r[:3]
-print r[1:3]
-print r[-2:]
-print r[-2:-1]
-
+print L[-2:]
+print L[-1]
 
 L = range(100)
-print L 
-print L[:10]
-print L[-10:]
-print L[10:20]
+print L
 
+print L[10:20]
 print L[:10:2]
 print L[::5]
+print L[:]
 
-T = range(10)
-print T[:5]
+print (0,1,2,3,4,5)[:3]
 
-print 'abcdef'[::2]
-
-####迭代
-ll = range(10)
-for l in ll:
-	print l
 d = {'a':1,'b':2,'c':3}
 for key in d:
 	print key
 for value in d.itervalues():
-	print value
-
+	print value 
 for key,value in d.iteritems():
-	print key , value 
+	print key,value
 
-for ch in'abcdef':
+for ch in 'abc':
 	print ch
 
 from collections import Iterable
-print isinstance('abc',Iterable)
-print isinstance([1,2,3],Iterable)
-print isinstance(123, Iterable)
+print isinstance('abc', Iterable)
+print isinstance([1,2,3], Iterable)
+print isinstance(123,Iterable)
 
-for i,value in enumerate(['A','B','C','D']):
+for i , value in enumerate(['A','b','C']):
 	print i,value
-for x,y in [(1,1),(2,2),(3,3)]:
-	print x,y
-
-
-###列表生成器
-print range(1,100)
+for
