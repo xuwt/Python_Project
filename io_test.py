@@ -121,3 +121,8 @@ def student2dict(std):
 print (json.dumps(s,default = lambda obj:obj.__dict__))
 print json.dumps(s,default = student2dict)
 
+def dict2student(d):
+	return Student(d['name'],d['age'],d['score'])
+
+#print(json.loads(json_str, object_hook=dict2student))
+
