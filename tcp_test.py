@@ -24,6 +24,7 @@ data = ''.join(buffer)
 #关闭连接：
 s.close()
 
+print data
 header,html = data.split('\r\n\r\n',)
 print header
 #把接收的数据写入文件

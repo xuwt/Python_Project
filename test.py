@@ -1,33 +1,19 @@
 # -*- coding:utf-8 -*-
 
-#导入re模块
-import re
+import urllib
+import urllib2
 
-#将正则表达式编译成Pattern对象，注意hello前面的r的意思是‘原生字符串’
-pattern = re.compile(r'hello')
+page = 1
+url = 'http://www.qiushibaike.com/hot/page/' + str(page)
+user_agent = 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.91 Safari/537.36'
+headers = {'User-Agent':user_agent}
+try:
+	request = urllib2.Request(url,headers = headers)
+	response = urllib2.urlopen(request)
+	print response.read()
+except urllib2.URLError, e:
+	if hasattr(e, 'code'):
+		print e.code
+	if hasattr(e, 'reason'):
+		print e.reason
 
-#使用re.match匹配文本，获得匹配结果，无法匹配时将返回None
-result1 = re.match(pattern,'hello')
-result2 = re.match(pattern,'helloo xuwt!')
-result3 = re.match(pattern,'helo xuwt!')
-result4 = re.match(pattern,'hello xuwt!')
-
-if result1:
-	print result1.group()
-else:
-	print 'result1匹配失败'
-
-if result2:
-	print result2.group()
-else:
-	print 'result2匹配失败'
-
-if result3:
-	print result3.group()
-else:
-	print 'result3匹配失败'
-
-if result4:
-	print result4.group()
-else:
-	print 'result4匹配失败'

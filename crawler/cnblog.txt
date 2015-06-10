@@ -1,0 +1,1640 @@
+http://www.cnblogs.com/Anna2Serena/p/4563425.html nodejs安装后在git bash 中输入node -v验证是否安装成功，但是提示：sh.exe&quot;: node :command not found，怎么解决？
+http://www.cnblogs.com/rewufu/p/4563422.html 文字图片写入CSV分享(Base64)
+http://www.cnblogs.com/lbingkuai/p/4563416.html 基于外部数据的用户信用评估
+http://www.cnblogs.com/linguanh/p/4563081.html java 线程池ThreadPoolExecutor  如何与  AsyncTask() 组合使用。
+http://www.cnblogs.com/RUN-TIME/p/4561118.html 同台电脑部署多组Tomcat负载均衡（或集群）
+http://www.cnblogs.com/jerehedu/p/4562973.html Android之官方导航栏之Toolbar(Toolbar+DrawerLayout+ViewPager+PagerSlidingTabStrip)
+http://www.cnblogs.com/powertoolsteam/p/async.html C＃：异步编程和线程的使用（.NET 4.5 ）
+http://www.cnblogs.com/noslopforever/p/4562864.html Unreal Open Day游记
+http://www.cnblogs.com/sheng_chao/p/4562696.html 高质量，高效率的多国语言软件开发（Web/PC/Mobile），使用接口约束/调用不同语言资源
+http://www.cnblogs.com/woodytu/p/4562547.html 索引键的唯一性（2/4）：唯一与非唯一聚集索引
+http://www.cnblogs.com/killbug/p/4562792.html 朋友公司的内部分享《工作十年我是如何实现财务自由的》
+http://www.cnblogs.com/zhangfeitao/p/4562791.html quick cocos2dx lua 内存释放
+http://www.cnblogs.com/xiaozhi_5638/p/4562719.html [史上最全]C#（VB.NET）中位运算符工作过程剖析（译）
+http://www.cnblogs.com/huangxi/p/4562735.html 用:hover伪类代替js的hover事件
+http://www.cnblogs.com/zichi/p/4561564.html JavaScript原型链和instanceof运算符的暧昧关系
+http://www.cnblogs.com/f1194361820/p/4562636.html Digester : a java object builder based xml
+http://www.cnblogs.com/steden/p/4555261.html Farseer.net轻量级开源框架 V1.x 入门篇：数据库配置及其它配置文件
+http://www.cnblogs.com/smartloli/p/4562551.html Kafka实战－KafkaOffsetMonitor
+http://www.cnblogs.com/yunfeifei/p/4555728.html Visual Studio Code预览版Ver 0.3.0试用体验
+http://www.cnblogs.com/sammyliu/p/4558638.html KVM 介绍（5）：libvirt 介绍
+http://www.cnblogs.com/yubinfeng/p/4562408.html [.net 面向对象编程基础] (17) 数组与集合
+http://www.cnblogs.com/zskbll/p/4562373.html C#微信开发小白成长教程二（新手接入指南，附视频）
+http://www.cnblogs.com/nickppa/p/4562347.html 基于Autofac, Castle.DynamicProxy的动态WCF解决方案(原创)
+http://www.cnblogs.com/ai-developers/p/4562311.html 【ios开发】UITableViewCell的重用
+http://www.cnblogs.com/wangmeijian/p/4562304.html 那些年踩过的坑之:first-child伪类选择器
+http://www.cnblogs.com/maybe2030/p/4562282.html [Linux] PuTTY指令汇总(持续更新中...)
+http://www.cnblogs.com/huangxincheng/p/4562239.html 十五天精通WCF——第二天 告别烦恼的config配置
+http://www.cnblogs.com/FourLeafCloverZc/p/4562206.html AngularJS笔记---作用域和控制器
+http://www.cnblogs.com/landptf/p/4562203.html android自定义控件，动态设置Button的样式
+http://www.cnblogs.com/tobecrazy/p/4562199.html appium java 环境搭建
+http://www.cnblogs.com/dudu/p/async_await_call_begin_end_method.html C# 中 async/await 调用传统 Begin/End 异步方法
+http://www.cnblogs.com/clark159/p/4562162.html [ASP.NET MVC] 使用CLK.AspNet.Identity提供以角色为基础的访问控制(RBAC)
+http://www.cnblogs.com/zhanghaohong/p/4562127.html Python html.parser库学习小结
+http://www.cnblogs.com/mienreal/p/4562078.html 基于DDD的现代ASP.NET开发框架--ABP系列之8、ABP日志管理
+http://www.cnblogs.com/RunForLove/p/4561054.html jquery中ajax 从前端到后端 完整过程解析
+http://www.cnblogs.com/vczero/p/react-native.html React-Native入门指南（一）——环境配置 &amp; Hello World
+http://www.cnblogs.com/objectc/p/4561781.html QQ聊天界面的布局和设计(IOS篇)-第二季
+http://www.cnblogs.com/geek12/p/4529573.html javascript 之闭包-理解不了来找我
+http://www.cnblogs.com/xhload3d/p/4561844.html 基于HT for Web矢量实现HTML5文件上传进度条
+http://www.cnblogs.com/yubinfeng/p/4561806.html [.net 面向对象编程基础] (16) 接口
+http://www.cnblogs.com/xhload3d/p/4561844.html 基于HT for Web矢量实现HTML5文件上传进度条
+http://www.cnblogs.com/yubinfeng/p/4561806.html [.net 面向对象编程基础] (16) 接口
+http://www.cnblogs.com/Coda/p/4561782.html Java知多少（86）文本框和文本区的输入输出
+http://www.cnblogs.com/jyzhao/p/4555171.html Greenplum 数据库安装部署（生产环境）
+http://www.cnblogs.com/xiaozhi_5638/p/4554069.html 物以类聚：对象也有生命
+http://www.cnblogs.com/jerehedu/p/4560914.html ASI简单实现网络编程
+http://www.cnblogs.com/BaiYiShaoNian/p/4561706.html 机器学习二 -- 决策树学习
+http://www.cnblogs.com/yoyaprogrammer/p/refactor_answer.html 大话重构 之 答读者问
+http://www.cnblogs.com/mmc1206x/p/4561647.html 还原拼图, 把妹收小弟神器, 让你逼格提高好几个档次.
+http://www.cnblogs.com/punkisnotdead/p/4561621.html Android自定义view教程05--自定义view的基础知识之LayoutInflater详解
+http://www.cnblogs.com/gaoshang212/p/4561595.html 【Win10】UAP/UWP/通用 开发之 x:DeferLoadStrategy
+http://www.cnblogs.com/ym123/p/4561548.html Linux常用网络工具：批量主机服务扫描之nmap
+http://www.cnblogs.com/yfsmooth/p/4561407.html CSS中position详解与常见应用实现
+http://www.cnblogs.com/fighting2014/p/4561412.html 工作总结
+http://www.cnblogs.com/ruochenchen/p/4561249.html Docker部署IPython
+http://www.cnblogs.com/sheng_chao/p/4561037.html 在插件式应用程序中，实现对菜单，工具栏按钮的 完全解耦及状态控制
+http://www.cnblogs.com/emmet7life/p/4552551.html iOS学习篇之Grand Central Dispatch（GCD）
+http://www.cnblogs.com/woodytu/p/4560478.html 索引键的唯一性（1/4）：堆表上的唯一与非唯一非聚集索引的区别
+http://www.cnblogs.com/rossoneri/p/4561057.html [Android] 仿照 Last App Switcher 写的小程序
+http://www.cnblogs.com/songliquan/p/4561062.html IOS笔记044-通知和代理（观察者模式和代理模式）
+http://www.cnblogs.com/songliquan/p/4561062.html IOS笔记044-通知和代理（观察者模式和代理模式）
+http://www.cnblogs.com/davidwang456/p/4546292.html spring security源码分析之core包
+http://www.cnblogs.com/xiaojian1987/p/4560879.html WPF好看的进度条实现浅谈（效果有点类似VS2012安装界面）
+http://www.cnblogs.com/constantince/p/4560897.html 利用history实现无刷新跳转界面
+http://www.cnblogs.com/dson/p/4560870.html Swift学习笔记六
+http://www.cnblogs.com/zufezzt/p/4560838.html JavaScript编写连连看
+http://www.cnblogs.com/kingkoo/p/4560822.html DMSFrame 之SqlCacheDependency（一）
+http://www.cnblogs.com/xhwy/p/4560700.html 以一个权限系统来告别WebForm —（一）项目整休架构设计与数据库设计
+http://www.cnblogs.com/yanxiaodi/p/4560633.html “Win10 UAP 开发系列”之主题模式切换
+http://www.cnblogs.com/heat-man/p/4560530.html 物联网，后会无期？
+http://www.cnblogs.com/fangbaiyi/p/4560539.html IT行业工作6年回顾
+http://www.cnblogs.com/1wen/p/4555373.html 利用PS自动切图、支持svg且支持icoMoon——再也不用四处去转格式了
+http://www.cnblogs.com/zhangpanyi/p/4560297.html cocos2d-x PNG图片资源加密
+http://www.cnblogs.com/xymBlog/p/4560356.html SSAS动态添加分区（一）
+http://www.cnblogs.com/sggx/p/4555255.html Asp.net  MVC 搭建属于自己的框架（一）
+http://www.cnblogs.com/fnng/p/4560298.html Appium移动自动化测试（三）--安装Android模拟器
+http://www.cnblogs.com/zhangfeitao/p/4560165.html cocos2d-x的lua脚本加载CocostudioUI两种方式
+http://www.cnblogs.com/strick/p/4551818.html 多种方法实现Loading（加载）动画效果
+http://www.cnblogs.com/pingfan1990/p/4560215.html chrome扩展写法
+http://www.cnblogs.com/yby-blogs/p/4560197.html android管理联系人操作
+http://www.cnblogs.com/jerehedu/p/4560119.html Android批量图片加载经典系列——采用二级缓存、异步加载网络图片
+http://www.cnblogs.com/fengwenit/p/4560099.html 用c#开发微信 (14) 微统计 - 阅读分享统计系统 4 部署测试 (最终效果图)
+http://www.cnblogs.com/PengLee/p/4553151.html 理解UI设计准则——人的两种思维系统
+http://www.cnblogs.com/suimeng/p/4560056.html 平衡二叉树,AVL树之图解篇
+http://www.cnblogs.com/asxinyu/p/dotnet_opensource_project_2.html 这些.NET开源项目你知道吗？让.NET开源来得更加猛烈些吧!（第二辑）
+http://www.cnblogs.com/cmt/p/4560043.html 上周热点回顾（6.1-6.7）
+http://www.cnblogs.com/levenyes/p/4560040.html 16届毕业的程序员在暑假实习时要注意些什么
+http://www.cnblogs.com/luge/p/Nhibernate_Simple_Tutorial.html Nhibernate基础使用教程以及简易封装
+http://www.cnblogs.com/wenBlog/p/4559989.html 关于tempdb的一些注意事项
+http://www.cnblogs.com/wangyulu/p/4559980.html Windows 平台下Git 服务器搭建
+http://www.cnblogs.com/ahthw/p/4548164.html 第四章 语言模块
+http://www.cnblogs.com/benpao/p/4559657.html &lt;微信应用开发系列&gt;定时刷新AccessToken
+http://www.cnblogs.com/aspnetx/p/4559621.html Datazen图表创建和发布
+http://www.cnblogs.com/LilianChen/p/4559059.html Java：基本语法
+http://www.cnblogs.com/dinglang/p/4559595.html SOA实践之基于服务总线的设计
+http://www.cnblogs.com/vd630/p/4559118.html [C#]跨模块的可选参数与常量注意事项
+http://www.cnblogs.com/wufengtinghai/p/4559251.html 使用Ivy管理项目中的依赖
+http://www.cnblogs.com/maijin/p/4559111.html ASP.NET WebForm Form表单如何实现MVC那种“自动装配”效果呢？
+http://www.cnblogs.com/xiaoheimiaoer/p/4559092.html 一个跨域请求的XSS漏洞再续
+http://www.cnblogs.com/songliquan/p/4559051.html IOS开发学习笔记043-QQ聊天界面实现
+http://www.cnblogs.com/xiaoheimiaoer/p/4559092.html 一个跨域请求的XSS漏洞再续
+http://www.cnblogs.com/songliquan/p/4559051.html IOS开发学习笔记043-QQ聊天界面实现
+http://www.cnblogs.com/yubinfeng/p/4559045.html [.net 面向对象编程基础] (15) 抽象类
+http://www.cnblogs.com/ai-developers/p/4559035.html 使用UITableView的分组样式
+http://www.cnblogs.com/objectc/p/4559007.html QQ聊天界面的布局和设计(IOS篇)-第一季
+http://www.cnblogs.com/CherishFX/p/4558958.html Linux Shell 程序调试
+http://www.cnblogs.com/PengLee/p/4557682.html 理解UI设计准则——保持系统的简约和一致
+http://www.cnblogs.com/caofangsheng/p/4558951.html ADO.NET学习系列（四）---窗体版的登录小程序
+http://www.cnblogs.com/wingyip/p/4558923.html Android 5.0 Activity切换动画
+http://www.cnblogs.com/yanghuahui/p/4558910.html HBase如何选取split point
+http://www.cnblogs.com/Tour/p/4537212.html python进程池剖析（一）
+http://www.cnblogs.com/wangjieguang/p/mongodbone.html 一、MongoDB的下载、安装与部署
+http://www.cnblogs.com/huangxincheng/p/4558747.html 十五天精通WCF——第一天   三种Binding让你KO80%的业务
+http://www.cnblogs.com/xiaoshuai1992/p/renyueshenhua.html 《人月神话》和个人的一些想法
+http://www.cnblogs.com/jasonhong/p/4558702.html 读《从0到1》
+http://www.cnblogs.com/chenxiaoer/p/4558688.html 去年前端校招面试的一些经验（阿里美团爱奇艺）
+http://www.cnblogs.com/mengda1027/p/4558697.html 关于CSS的只言片语
+http://www.cnblogs.com/pingfan1990/p/4558630.html 利用bat批处理做启动mongodb脚本
+http://www.cnblogs.com/E-WALKER/p/4558613.html PHP 学习笔记 01
+http://www.cnblogs.com/0error/p/4558604.html [oc学习日记]kvc,kvo和通知
+http://www.cnblogs.com/0error/p/4558604.html [oc学习日记]kvc,kvo和通知
+http://www.cnblogs.com/fred-bao/p/4558591.html 一个用Json格式来发送一个Post请求到WCF服务
+http://www.cnblogs.com/aspnetx/p/4558592.html Datazen配置
+http://www.cnblogs.com/lookbackinside/p/4558559.html 大文件的并行处理问题
+http://www.cnblogs.com/liyunhua/p/4558480.html 美化博客园界面（让您的博客更加赏心悦目）希望对您有用
+http://www.cnblogs.com/davidwang456/p/4542409.html .spring jdbctemplate源码跟踪
+http://www.cnblogs.com/echosong/p/4558457.html 根据C# 事件思想来实现 php 事件
+http://www.cnblogs.com/wushuaiyi/p/4558409.html 《算法导论》读书笔记之排序算法—Merge Sort 归并排序算法
+http://www.cnblogs.com/xiaofeixiang/p/4558408.html 算法-链表实现栈
+http://www.cnblogs.com/pengineer/p/4558395.html RMAN备份与恢复 —— 参数文件还原
+http://www.cnblogs.com/alex-huang-blogs/p/4558363.html 读《黑客与画家》
+http://www.cnblogs.com/tww316/p/4558358.html 前端开发面试小结
+http://www.cnblogs.com/richieyang/p/4558269.html Expression Tree 扩展MVC中的 HtmlHelper 和 UrlHelper
+http://www.cnblogs.com/BaiYiShaoNian/p/4558279.html 机器学习一 -- 什么是监督学习和无监督学习？
+http://www.cnblogs.com/Coda/p/4558275.html Java知多少（85）文本框和文本区
+http://www.cnblogs.com/D-Key/p/4558273.html 远程搭建服务器端环境遇到的一些问题
+http://www.cnblogs.com/KingG/p/4558271.html 图书管理系统设计图
+http://www.cnblogs.com/dinglang/p/4558247.html 大型网站架构体系的演变
+http://www.cnblogs.com/maybe2030/p/4558225.html [Network] HTML、XML和JSON学习汇总
+http://www.cnblogs.com/sunkaixuan/p/4558205.html ValidationSuar表单验证框架-支持ASP.NET MVC ASP.NET WebFroM
+http://www.cnblogs.com/luowenqing/p/4558178.html USACO 2.2 Party Lamps 派对灯 (lamps)
+http://www.cnblogs.com/yxlove/p/4558174.html 6.1.1.2 属性类型之访问器属性
+http://www.cnblogs.com/RGogoing/p/4557370.html Android 学习笔记 BroadcastReceiver广播...
+http://www.cnblogs.com/caofangsheng/p/4558138.html ADO.NET学习系列（二）
+http://www.cnblogs.com/PengLee/p/4523302.html Android UI 设计模式——导航中的一些问题
+http://www.cnblogs.com/RhinoC/p/4558113.html 卸载 Windows 8/8.1/10 无法常规卸载的内置应用
+http://www.cnblogs.com/wolf-sun/p/4557057.html Restful风格wcf调用3——Stream
+http://www.cnblogs.com/lvyahui/p/4557452.html JavaScript OOP 创建对象的7种方式
+http://www.cnblogs.com/aspnetx/p/4557679.html Datazen安装
+http://www.cnblogs.com/asxinyu/p/Smart_Lottery_Training_4.html 足彩基础知识入门(4)赛事数据库与预测平台基础概念介绍(一)
+http://www.cnblogs.com/zhanlang96/p/4557658.html Unity3d 游戏中的实时降噪-对Square Enix文档的研究与实现
+http://www.cnblogs.com/murongxiaopifu/p/4557365.html 从游戏脚本语言说起，剖析Mono所搭建的脚本基础
+http://www.cnblogs.com/yubinfeng/p/4557630.html [.net 面向对象编程基础] (14) 重构
+http://www.cnblogs.com/1024incn/p/4557624.html MachineLearning ---- lesson 2 Linear Regression with One Variable
+http://www.cnblogs.com/tobecrazy/p/4557592.html 在测试框架中使用Log4J 2
+http://www.cnblogs.com/pandachen/p/4557573.html Ubuntu下用cue文件对ape和wav文件自动分轨
+http://www.cnblogs.com/aspnetx/p/4557547.html Datazen介绍
+http://www.cnblogs.com/xuyubing/p/4557544.html 招聘心得，送给正在找工作的朋友（求职者必看）
+http://www.cnblogs.com/huangzelin/p/4557533.html Python文件读取编码错误问题解决之（PyCharm开发工具默认设置的坑。。。）
+http://www.cnblogs.com/songliquan/p/4557485.html IOS开发学习笔记042-UITableView总结2
+http://www.cnblogs.com/fly-100/p/4549354.html Unity UGUI —— 无限循环List
+http://www.cnblogs.com/joy2code/p/4557441.html 前端：水很浅，但水很浑。。。
+http://www.cnblogs.com/landptf/p/4557414.html android自定义控件实现TextView按下后字体颜色改变
+http://www.cnblogs.com/aotian/p/4557415.html 再回首，Java温故知新（八）：Java基础之字符串
+http://www.cnblogs.com/liyunhua/p/4557135.html 用实例深入浅出详述canvas
+http://www.cnblogs.com/jimmytech/p/4557396.html Android UI:  LinearLayout中layout_weight 属性的使用规则
+http://www.cnblogs.com/caofangsheng/p/4557389.html javaScript一些函数（二）
+http://www.cnblogs.com/BaiYiShaoNian/p/4557330.html 这就是搜索引擎--读书笔记七--倒排列表压缩算法
+http://www.cnblogs.com/yxlove/p/4557314.html 6.1.1.1 属性类型之数据属性
+http://www.cnblogs.com/rwxwsblog/p/4557123.html 安装python爬虫scrapy踩过的那些坑和编程外的思考
+http://www.cnblogs.com/Alandre/p/4557254.html JavaEE 要懂的小事：二、图解 Cookie（小甜饼）
+http://www.cnblogs.com/wenjiang/p/4557196.html Android数据库表的创建和数据升级操作
+http://www.cnblogs.com/yubinfeng/p/4557160.html [.net 面向对象编程基础] (13) 面向对象三大特性——多态
+http://www.cnblogs.com/tugenhua0707/p/4557159.html 理解Javascript的动态语言特性
+http://www.cnblogs.com/1024incn/p/4557156.html CUDA ---- Dynamic Parallelism
+http://www.cnblogs.com/dojo-lzz/p/4557149.html Javascript自己动手实现getter/setter
+http://www.cnblogs.com/richqian/p/4549590.html 【原创】batch-GD， SGD， Mini-batch-GD， Stochastic GD， Online-GD -- 大数据背景下的梯度训练算法
+http://www.cnblogs.com/gavingong/p/4557044.html 【提高工作效率】快速启动小工具
+http://www.cnblogs.com/xzmblog/p/4557064.html C++中的指针基础
+http://www.cnblogs.com/mushroom/p/4556801.html 探索C#之布隆过滤器(Bloom filter)
+http://www.cnblogs.com/Mike-zh/p/4557014.html iOS-Runtime知识点整理
+http://www.cnblogs.com/iamzhanglei/p/4556906.html 关于Nuclear相关回应及思考
+http://www.cnblogs.com/jiahuix/p/4556978.html 软件基本开发流程——自我总结
+http://www.cnblogs.com/youge/p/4556886.html windows下vi/vim编辑器的基本操作
+http://www.cnblogs.com/webary/p/4556868.html 常见面试题系列1——原地消除字符串连续的空白字符
+http://www.cnblogs.com/boy1025/p/4556759.html Hibernate学习-Hibernate查询语言HQL（一）
+http://www.cnblogs.com/huangxincheng/p/4556755.html 由一个订单推送想到了ObservableCollection的神奇用法
+http://www.cnblogs.com/lanston/p/exportAndImport_data_with_datapump.html Oracle Data Pump 导出和导入数据
+http://www.cnblogs.com/ym123/p/4556723.html Linux常用网络工具：路由扫描之traceroute
+http://www.cnblogs.com/RGogoing/p/4554799.html Android 学习笔记 Service服务与远程通信...（AIDL）
+http://www.cnblogs.com/newsea/p/4556707.html 世界需要程序员
+http://www.cnblogs.com/kscnchina/p/4556702.html Oracle数据库入门基础知识
+http://www.cnblogs.com/Pupa/p/4556695.html 咸蛋系列一●《随机数生成篇》1 序
+http://www.cnblogs.com/imirror707/p/springMVC1.html （一）spring MVC基本概念和流程
+http://www.cnblogs.com/experdot/p/4556672.html 编程模拟自然(一)：如何画一颗静态树
+http://www.cnblogs.com/Jack47/p/intro_to_sponsored_search.html 互联网搜索广告介绍
+http://www.cnblogs.com/wolf-sun/p/4556301.html Restful风格wcf调用2——增删改查
+http://www.cnblogs.com/woodytu/p/4556065.html 统计信息内幕：直方图和密度向量
+http://www.cnblogs.com/zaijianghu/p/self_define_table.html 自定义分页表格的实现
+http://www.cnblogs.com/zeusro/p/4556462.html Mock session,cookie,querystring in ASB.NET MVC
+http://www.cnblogs.com/woodytu/p/4556065.html 统计信息内幕：直方图和密度向量
+http://www.cnblogs.com/zaijianghu/p/self_define_table.html 自定义分页表格的实现
+http://www.cnblogs.com/zeusro/p/4556462.html Mock session,cookie,querystring in ASB.NET MVC
+http://www.cnblogs.com/guguli/p/4556445.html &lt;Linux内核源码&gt;文件系统VFS内核4.0.4版本基本概念源码
+http://www.cnblogs.com/jianyus/p/4556426.html SharePoint 2013 搭建负载均衡(NLB)
+http://www.cnblogs.com/xiaoxiexxx/p/4555180.html 用VS2010检查两个MSSQL数据库的架构差异并同步
+http://www.cnblogs.com/wangqiguo/p/4556391.html 从RTSP协议SDP数据中获得二进制的SPS、PPS
+http://www.cnblogs.com/yby-blogs/p/4556366.html android国际化操作
+http://www.cnblogs.com/hackerxiaoyon/p/4556241.html 测试项目注意项
+http://www.cnblogs.com/wufengtinghai/p/4556293.html 使用Ant自动化我们的java项目生成
+http://www.cnblogs.com/kimmy/p/4556240.html 【android】使用RecyclerView和CardView,实现知乎日报精致布局
+http://www.cnblogs.com/ferron/p/4556171.html 关于边界堆叠的概念及理解
+http://www.cnblogs.com/JonnyLulu/p/4556170.html 锂离子电池特性及充、放电管理
+http://www.cnblogs.com/VolcanoCloud/p/4551976.html 《Entity Framework 6 Recipes》中文翻译系列 (46) ------ 第八章 POCO之领域对象测试和仓储测试
+http://www.cnblogs.com/Coda/p/4556038.html Java知多少（84）图形界面之布局设计
+http://www.cnblogs.com/portal/p/4555981.html 毕业一年&#183;纠结
+http://www.cnblogs.com/yubinfeng/p/4555948.html [.net 面向对象编程基础] (12) 面向对象三大特性——继承
+http://www.cnblogs.com/Seanit/p/4555937.html 关于Java配置文件properties的学习
+http://www.cnblogs.com/zengda/p/4555863.html jQuery中的end()方法
+http://www.cnblogs.com/hukezhu/p/4555861.html ios开发----应用数据存储的常用方法之plist存取方法
+http://www.cnblogs.com/sunniest/p/4555801.html 史上最全最强SpringMVC详细示例实战教程
+http://www.cnblogs.com/Coda/p/4555665.html Java知多少（83）面板基础：JPanel和JScrollPane
+http://www.cnblogs.com/maybe2030/p/4555382.html [Python] 网络爬虫和正则表达式学习总结
+http://www.cnblogs.com/VolcanoCloud/p/4549225.html 《Entity Framework 6 Recipes》中文翻译系列 (45) ------ 第八章 POCO之获取原始对象与手工同步对象图和变化跟踪器
+http://www.cnblogs.com/xujian2014/p/4555624.html JSP的基本用法一运行机制和语法
+http://www.cnblogs.com/jiekzou/p/4555452.html ASP.NET MVC搭建项目后台UI框架—6、客户管理（添加、修改、查询、分页）
+http://www.cnblogs.com/tobealion/p/4555481.html Mutex, Semaphore and Monitor （1）
+http://www.cnblogs.com/boss-he/p/4555475.html SQL输出矩阵
+http://www.cnblogs.com/f1194361820/p/4555354.html Java WEB Security Authentication
+http://www.cnblogs.com/memento/p/4555351.html [Winform] DataGridView(FAQ)
+http://www.cnblogs.com/gongxijun/p/4555349.html 音乐网站之技术总结
+http://www.cnblogs.com/dson/p/4555334.html Swift学习笔记五
+http://www.cnblogs.com/superjs/p/4555230.html 大话cocos2d-js(3)
+http://www.cnblogs.com/xiaoMzjm/p/4555209.html java序列化/反序列化之xstream、protobuf、protostuff 的比较与使用例子
+http://www.cnblogs.com/kimmy/p/4555197.html 【android】夜间模式简单实现
+http://www.cnblogs.com/randyyang/p/4264224.html 用Windows PowerShell 控制管理 Microsoft Office 365
+http://www.cnblogs.com/DeepLearing/p/4554867.html .NET泛型解析(上)
+http://www.cnblogs.com/suixinpeng/p/centos7.html VMWare Workstation 11安装CentOS7,附图 [原创]
+http://www.cnblogs.com/xiaozhi_5638/p/4554051.html 难免的尴尬：代码依赖
+http://www.cnblogs.com/mzws/p/pagging.html JS 插件开发——Pagging(分页控件)
+http://www.cnblogs.com/mzws/p/pagging.html JS 插件开发——Pagging(分页控件)
+http://www.cnblogs.com/aaron-kefan/p/4554968.html iOS真机调试流程
+http://www.cnblogs.com/bookwed/p/4554943.html jenkins  maven svn 部署web项目到本地Tomcat
+http://www.cnblogs.com/tolimit/p/4551428.html linux内存管理源码分析 - 概述
+http://www.cnblogs.com/zer0Black/p/4554580.html 开发一个新App时，应该注意些什么？
+http://www.cnblogs.com/VolcanoCloud/p/4547839.html 《Entity Framework 6 Recipes》中文翻译系列 (44) ------ 第八章 POCO之POCO中使用值对象和对象变更通知
+http://www.cnblogs.com/Ribbon/p/4554707.html IE11之F12 Developer Tools--调试器(Debugger)
+http://www.cnblogs.com/coder2012/p/4554670.html python 对象
+http://www.cnblogs.com/jerehedu/p/4554579.html Android批量图片加载经典系列——使用LruCache、AsyncTask缓存并异步加载图片
+http://www.cnblogs.com/GongQi/p/4550226.html 彻底理解Javascript原型继承
+http://www.cnblogs.com/lhrbest/p/4554489.html oracle中如何判断一个字符串是否含有汉字
+http://www.cnblogs.com/fengbohello/p/4554287.html 配置hooks使svn提交后自动同步客户端代码（客户端与服务端在同一台机器上）
+http://www.cnblogs.com/bitzhuwei/p/tank-hero.html [Unity3D]自己动手重制坦克舰队ArmadaTank
+http://www.cnblogs.com/sheng_chao/p/4553832.html （原创，开源）高灵活度，高适用性，高性能，轻量级的 ORM 实现
+http://www.cnblogs.com/52XF/p/yunsuanfuchognzai.html C# 运算符重载
+http://www.cnblogs.com/wohexiaocai/p/4553306.html C#强力粉碎文件代码分享，升级中用到
+http://www.cnblogs.com/lovecindywang/p/4554376.html 某网站漏洞排查经验
+http://www.cnblogs.com/jiu0821/p/4554352.html cdoj1092-韩爷的梦               （字符串hash）【hash】
+http://www.cnblogs.com/vd630/p/4553985.html [C#]LockBits使用笔记
+http://www.cnblogs.com/xirongliu/p/4554138.html 分布式版本管理git学习资料整理推荐
+http://www.cnblogs.com/dunitian/p/4554084.html 如何变相的绕过QQ邮箱订阅的繁琐核审
+http://www.cnblogs.com/starof/p/4545033.html css3 background
+http://www.cnblogs.com/52cik/p/php-pinyin.html php 汉字转拼音 [包含20902个基本汉字+5059生僻字]
+http://www.cnblogs.com/squirrel_sc/p/4553890.html 强人工智能基本问题：全局控制与自组织
+http://www.cnblogs.com/chanshuyi/p/4553278.html 《JavaScript程序设计》第2课：JS类型系统
+http://www.cnblogs.com/VolcanoCloud/p/4546445.html 《Entity Framework 6 Recipes》中文翻译系列 (43) ------ 第八章 POCO之使用POCO加载实体
+http://www.cnblogs.com/fengwenit/p/4553728.html 用c#开发微信 (13) 微统计 - 阅读分享统计系统 3 UI设计及后台处理
+http://www.cnblogs.com/yoyaprogrammer/p/dive_into_wordcount_2.html 从WordCount看Spark大数据处理的核心机制（2）
+http://www.cnblogs.com/woodytu/p/4552325.html 参数嗅探（Parameter Sniffing）（2/2)
+http://www.cnblogs.com/sammyliu/p/4548194.html KVM 介绍（4）：I/O 设备直接分配和 SR-IOV [KVM PCI/PCIe Pass-Through SR-IOV]
+http://www.cnblogs.com/sunkaixuan/p/4553618.html ASP.NET MVC和WebForm  轻松实现前端和后端的双重验证 jquery.validate+ValidationSugar
+http://www.cnblogs.com/cyq1162/p/4551652.html 自定义可视化调试工具（Microsoft.VisualStudio.DebuggerVisualizers）
+http://www.cnblogs.com/jiu0821/p/4553542.html linux下echo与time服务的程序实现
+http://www.cnblogs.com/yubinfeng/p/4553505.html [.net 面向对象编程基础] (11) 面向对象三大特性——封装
+http://www.cnblogs.com/likeandroid/p/4553493.html 设计模式--观察者模式
+http://www.cnblogs.com/haojuncong/p/ios.html IOS开发---视频录制
+http://www.cnblogs.com/tobecrazy/p/4553444.html selenium测试框架篇，页面对象和元素对象的管理
+http://www.cnblogs.com/everxs/p/4553361.html 如何开发一个java开源框架-----Jvn框架之实现自动生成在线文档(第七讲)
+http://www.cnblogs.com/objectc/p/4553258.html MarkDown基础使用教程-by sixleaves
+http://www.cnblogs.com/lh218/p/4553250.html WCF中的异常
+http://www.cnblogs.com/jbexploit/p/4553219.html PHP爬虫技术（一）
+http://www.cnblogs.com/icedream61/p/4530235.html Django笔记 —— 模型
+http://www.cnblogs.com/VolcanoCloud/p/4545314.html 《Entity Framework 6 Recipes》中文翻译系列 (42) ------ 第八章 POCO之使用POCO
+http://www.cnblogs.com/wushuaiyi/p/4553119.html 《算法导论》读书笔记之图论算法—Dijkstra 算法求最短路径
+http://www.cnblogs.com/KC-Mei/p/4553024.html 【EmguCV】C#实现HOG与SVM的几个问题
+http://www.cnblogs.com/johnl/p/4552352.html 易于书写阅读的CSS开发工具——SASS
+http://www.cnblogs.com/Alandre/p/4553017.html Java I/O : Bit Operation 位运算
+http://www.cnblogs.com/chengzish/p/4529148.html 【ASP.NET基础】简单企业产品展示网站--产品编辑CRUD
+http://www.cnblogs.com/Coda/p/4552923.html Java知多少（82）标签、按钮和按钮事件简介
+http://www.cnblogs.com/wolf-sun/p/4550152.html Restful风格wcf调用
+http://www.cnblogs.com/lan-mei/p/4552871.html 带你一起Piu Piu Piu~
+http://www.cnblogs.com/xing901022/p/4552843.html Tomcat 6 —— Realm域管理
+http://www.cnblogs.com/lyhabc/p/4540006.html 玩转SQL Server复制回路の变更数据类型、未分区表转为分区表
+http://www.cnblogs.com/Lindaman/p/4552792.html Linux/Unix 新手和专家教程
+http://www.cnblogs.com/hanmou/p/4552163.html ActiveMQ5.10.2版本配置JMX
+http://www.cnblogs.com/songliquan/p/4552712.html IOS开发学习笔记041-UITableView总结1
+http://www.cnblogs.com/PengLee/p/4548215.html 理解UI设计准则——有关记忆力
+http://www.cnblogs.com/yubaolee/p/4552646.html 领域驱动设计实战----战略建模
+http://www.cnblogs.com/superjs/p/4552655.html 大话cocos2d-js(2)
+http://www.cnblogs.com/zhouxuanyu/p/4552627.html Python笔记（五）--Django中使用模板
+http://www.cnblogs.com/jerehedu/p/4552622.html IOS实现多媒体音频之音乐播放器
+http://www.cnblogs.com/yolanda-lee/p/4552514.html 最常用的动态sql语句梳理——分享给使用Mybatis的小伙伴们！
+http://www.cnblogs.com/chanshuyi/p/4551961.html 《Maven实战》整理三：坐标和依赖
+http://www.cnblogs.com/fnng/p/4552438.html Appium移动自动化测试（二）--安装Android开发环境
+http://www.cnblogs.com/tattoo/p/4552405.html 看了《前端，我为什么不要你》有感
+http://www.cnblogs.com/joinclear/p/4552297.html UML建模
+http://www.cnblogs.com/jiurl/p/4552332.html 3D-蓝牙-0了解领域软件快速开发记
+http://www.cnblogs.com/CodeBear/p/4552305.html Sea.js 初探
+http://www.cnblogs.com/yubinfeng/p/4552274.html [.net 面向对象编程基础] (9) 类和类的实例
+http://www.cnblogs.com/jhmydear/p/4552252.html 由浅入深学习ajax跨域(JSONP)问题
+http://www.cnblogs.com/huangxi/p/4552201.html JS实现验证码倒计时效果
+http://www.cnblogs.com/RGogoing/p/4550406.html Android 学习笔记 Service
+http://www.cnblogs.com/fancyamx/p/4552089.html 新手易犯的典型缺陷--C#
+http://www.cnblogs.com/Ribbon/p/4549767.html IE11之F12 Developer Tools--控制台工具(Console)
+http://www.cnblogs.com/liuzhendong/p/4552060.html (ETW) Event Trace for Windows 提高 (含pdf下载)
+http://www.cnblogs.com/VolcanoCloud/p/4544400.html 《Entity Framework 6 Recipes》中文翻译系列 (41) ------ 第七章 使用对象服务之标识关系中使用依赖实体与异步查询保存
+http://www.cnblogs.com/NatureSex/p/4551343.html 信鸽推送 .NET (C#)  服务端 SDK rest api 调用库(v1.2)
+http://www.cnblogs.com/cnblogsfans/p/4551990.html 领域驱动设计系列 (六)：CQRS
+http://www.cnblogs.com/imzhangtx/p/4551959.html mysql 安装（Linux）
+http://www.cnblogs.com/edwinchen/p/4551910.html 索引时利用K-邻近算法过滤重复歌曲
+http://www.cnblogs.com/towersxu/p/4544499.html angularJS测试并集成到jinkens
+http://www.cnblogs.com/xiaoluosun/p/4551885.html Jenkins + robot framework + git持续集成
+http://www.cnblogs.com/juedui0769/p/4551833.html 你喜欢使用eclipse+tomcat编程吗?!
+http://www.cnblogs.com/jgl5981/p/4551765.html Solr4.4 + Tomcat6
+http://www.cnblogs.com/sexybear/p/4551742.html C++_运算符重载 总结
+http://www.cnblogs.com/boy1025/p/4551593.html JAVA解析JSON数据
+http://www.cnblogs.com/lan-mei/p/4547154.html 小心你的元素会消失~
+http://www.cnblogs.com/gaoshang212/p/4551431.html 【CefSharp】 禁用右键菜单 与 控制弹出窗口的方式
+http://www.cnblogs.com/woodytu/p/4551004.html 参数嗅探（Parameter Sniffing）（1/2)
+http://www.cnblogs.com/pingfan1990/p/4551289.html 不定宽高垂直居中分析
+http://www.cnblogs.com/smartloli/p/4551292.html Hadoop2源码分析－HDFS核心模块分析
+http://www.cnblogs.com/squirrel_sc/p/4551259.html 程序员，为未来准备好了吗？
+http://www.cnblogs.com/swey/p/4114897.html linux定时器
+http://www.cnblogs.com/jojodru/p/4551201.html libcurl的封装，支持同步异步请求，支持多线程下载，支持https
+http://www.cnblogs.com/dson/p/4550129.html Swift学习笔记一
+http://www.cnblogs.com/fengbohello/p/4548580.html linux下搭建svn代码库
+http://www.cnblogs.com/wade-xu/p/4547381.html 玩转单元测试之DBUnit
+http://www.cnblogs.com/mongo/p/4517552.html 设计模式-抽象工厂
+http://www.cnblogs.com/songliquan/p/4548887.html ios开发学习笔记040-autolayout 第三方框架Masonry
+http://www.cnblogs.com/fengwenit/p/4550835.html 用c#开发微信 (12) 微统计 - 阅读分享统计系统 2 业务逻辑实现
+http://www.cnblogs.com/zhuimengdeyuanyuan/p/4548302.html GIS可视化——聚散图
+http://www.cnblogs.com/wushangjue/p/4539189.html 手把手教你如何安装和使用Karma-Jasmine
+http://www.cnblogs.com/coder2012/p/4550726.html python 模块加载
+http://www.cnblogs.com/xingyushishui/p/4550715.html block使用
+http://www.cnblogs.com/kerrycode/p/4550673.html SQL SERVER 中is null 和 is not null 将会导致索引失效吗？
+http://www.cnblogs.com/cuiyansong/p/4550150.html Emberjs之ComputedProperty
+http://www.cnblogs.com/blog470130547/p/4550633.html 连载《一个程序猿的生命周期》-20.7年工作感悟
+http://www.cnblogs.com/VolcanoCloud/p/4543995.html 《Entity Framework 6 Recipes》中文翻译系列 (40) ------ 第七章 使用对象服务之从跟踪器中获取实体与从命令行生成模型（想解决EF第一次查询慢的，请阅读）
+http://www.cnblogs.com/sunkaixuan/p/4550580.html 让 ASP.NET JS验证和服务端的 双验证 更简单
+http://www.cnblogs.com/watermoon2/p/4549601.html [Asp.net 5] Logging-日志系统的基本架构（上）
+http://www.cnblogs.com/JohnTsai/p/4550144.html Android学习之——切换应用主题实现日间和夜间效果的更换
+http://www.cnblogs.com/my-pursuit/p/extract_cab.html C#使用Expand、Shell32解压Cab、XSN文件
+http://www.cnblogs.com/mienreal/p/4550500.html 基于DDD的现代ASP.NET开发框架--ABP系列之6、ABP依赖注入
+http://www.cnblogs.com/52cik/p/yii2-ActionColumn.html Yii2 GridView自定义链接之重写 ActionColumn
+http://www.cnblogs.com/496668219long/p/4534191.html 使用Git和远程代码库
+http://www.cnblogs.com/yyrdl/p/4550487.html 【动态规划】---电路布线
+http://www.cnblogs.com/bigmoyan/p/4550375.html 【机器学习】EM算法详细推导和讲解
+http://www.cnblogs.com/yubinfeng/p/4550372.html [.net 面向对象编程基础] (6) 基础中的基础——运算符和表达式
+http://www.cnblogs.com/vans/p/4550356.html 前端，我为什么不要你
+http://www.cnblogs.com/rain-drop/p/4550340.html 微信推送模板消息的PHP代码整理
+http://www.cnblogs.com/jyzhao/p/4548747.html Vertica增加一个数据存储的目录
+http://www.cnblogs.com/tugenhua0707/p/4550228.html webview与JS的交互
+http://www.cnblogs.com/Coda/p/4550219.html Java知多少（81）框架窗口基础
+http://www.cnblogs.com/wchrt/p/4550208.html SSH2.0编程 ssh协议过程实现
+http://www.cnblogs.com/conda/p/4550196.html kivy学习之路--开发环境架设之linux篇
+http://www.cnblogs.com/lippi/p/java_lamdba.html Java Lambda简明教程(一)
+http://www.cnblogs.com/woodytu/p/4549984.html 第10/24周 计划缓存
+http://www.cnblogs.com/huangzelin/p/4550076.html 直接代码POST数据调用WebService
+http://www.cnblogs.com/BaiYiShaoNian/p/4550060.html 这就是搜索引擎--读书笔记六--索引的查询
+http://www.cnblogs.com/wzgj/p/4550024.html 工作反思-跳槽篇
+http://www.cnblogs.com/hxwj/p/4549973.html iOS模型以及使用
+http://www.cnblogs.com/DinoWu/p/4549770.html Windows 10 开发日记（五）-- 当Binding遇到异步 -- 解决方案
+http://www.cnblogs.com/crazyMyWay/p/4549836.html linux/win7下安装websphere application server
+http://www.cnblogs.com/CasonChan/p/4546658.html MBR主引导扇区解析
+http://www.cnblogs.com/lhrbest/p/4549790.html 11g包dbms_parallel_execute在海量数据处理过程中的应用
+http://www.cnblogs.com/miloyip/p/4549772.html RapidJSON 代码剖析（三）：Unicode 的编码与解码
+http://www.cnblogs.com/LanTianYou/p/4549766.html 通过Coded UI录制脚本自动化创建SharePoint Designer Reusable Workflow
+http://www.cnblogs.com/jerehedu/p/4549686.html xUtils如何通过注解对FindViewById进行封装
+http://www.cnblogs.com/rossoneri/p/4549529.html [Java] 用 Comparator 实现排序
+http://www.cnblogs.com/davidwang456/p/4549344.html spring security之httpSecurity使用示例
+http://www.cnblogs.com/VolcanoCloud/p/4542013.html 《Entity Framework 6 Recipes》中文翻译系列 (39) ------ 第七章 使用对象服务之配置模型和使用单复数服务
+http://www.cnblogs.com/prowyh/p/4549186.html 笨拙而诡异的 Oracle（之二）
+http://www.cnblogs.com/fidelQuan/p/4549068.html Mysql事务，并发问题，锁机制
+http://www.cnblogs.com/mengwang024/p/4548821.html C++以多态方式处理数组可能会遇到的问题
+http://www.cnblogs.com/web369/p/4549052.html JDBC数据库常用操作(mysql)
+http://www.cnblogs.com/yubinfeng/p/4549037.html [.net 面向对象编程基础] (4) 基础中的基础——数据类型转换
+http://www.cnblogs.com/yby-blogs/p/4548943.html android四大组件之ContentProvider（二）
+http://www.cnblogs.com/songliquan/p/4548206.html IOS开发学习笔记039-autolayout 代码实现
+http://www.cnblogs.com/sammyliu/p/4543657.html KVM 介绍（3）：I/O 全虚拟化和准虚拟化 [KVM I/O QEMU Full-Virtualizaiton Para-virtualization]
+http://www.cnblogs.com/BaiYiShaoNian/p/4548817.html 这就是搜索引擎--读书笔记五--索引的建立与更新
+http://www.cnblogs.com/tanghuian/p/4548639.html 【Web后端笔记】windows下nginx的基本配置和使用
+http://www.cnblogs.com/fangyuan1004/p/4546567.html Django搭建及源码分析(三)---+uWSGI+nginx
+http://www.cnblogs.com/Ribbon/p/4546379.html IE11之F12 Developer Tools--DOM Explorer
+http://www.cnblogs.com/zhuimengdeyuanyuan/p/4548299.html GIS可视化——热点图
+http://www.cnblogs.com/TomXu/p/4496506.html 解读ASP.NET 5 &amp; MVC6系列（17）：MVC中的其他新特性
+http://www.cnblogs.com/yoyaprogrammer/p/eliminate_long_class.html 大话重构-消除巨无霸类
+http://www.cnblogs.com/fengwenit/p/4548252.html 用c#开发微信 (11) 微统计 - 阅读分享统计系统 1 基础架构搭建
+http://www.cnblogs.com/asxinyu/p/dotnet_Opensource_project_LiteDB.html .NET平台开源项目速览(3)小巧轻量级NoSQL文件数据库LiteDB
+http://www.cnblogs.com/index-html/p/cookie-dos.html 超大 Cookie 拒绝服务攻击
+http://www.cnblogs.com/songliquan/p/4547833.html IOS开发学习笔记038-autolayout 自动布局 界面实现
+http://www.cnblogs.com/sheng_chao/p/4548146.html 使用 WPF+ ASP.NET MVC 开发 在线客服系统 （一）
+http://www.cnblogs.com/BaiYiShaoNian/p/4548118.html JavaWeb学习总结第四篇--Servlet开发
+http://www.cnblogs.com/wingyip/p/4548093.html Android 水波纹点击效果(Ripple Effect)
+http://www.cnblogs.com/yby-blogs/p/4548086.html android四大组件之ContentProvider（一）
+http://www.cnblogs.com/1024incn/p/4548056.html CUDA  ---- Branch Divergence and Unrolling Loop
+http://www.cnblogs.com/mongo/p/4546048.html 设计模式-单例模式
+http://www.cnblogs.com/wufengtinghai/p/4548017.html Java构建工具Ant小记(一)
+http://www.cnblogs.com/saaav/p/4548019.html DDD初学指南
+http://www.cnblogs.com/ScauZhang/p/4548012.html 在ubuntu搭建lamp环境
+http://www.cnblogs.com/loveis715/p/4547968.html 企业级负载平衡简介
+http://www.cnblogs.com/wohexiaocai/p/4547863.html 工作到了第七年，说说自己每天的工作（一）
+http://www.cnblogs.com/JohnTsai/p/4547716.html Android学习之——SpannableString和TextView的使用及研究
+http://www.cnblogs.com/gxbk629/p/4547906.html Junit使用过程中需要注意的诡异bug以及处理办法
+http://www.cnblogs.com/chanshuyi/p/4547902.html JavaScript类型判断
+http://www.cnblogs.com/jpld/p/4547891.html 《Python基础教程》 读书笔记 第九章  魔法方法、属性和迭代器（上）
+http://www.cnblogs.com/SheilaSun/p/4547885.html jQuery事件绑定—on()、bind()与delegate()
+http://www.cnblogs.com/aspnetx/p/4547871.html [BI项目记]-BUG处理
+http://www.cnblogs.com/averey/p/4546799.html Java 连接、操控数据库总结（JDBC）
+http://www.cnblogs.com/VolcanoCloud/p/4541329.html 《Entity Framework 6 Recipes》中文翻译系列 (38) ------ 第七章 使用对象服务之动态创建连接字符串和从数据库读取模型
+http://www.cnblogs.com/gamedes/p/4547722.html 制作 2D 游戏中的残影特效
+http://www.cnblogs.com/hbsygfz/p/4545208.html python基础教程学习笔记---(7)python操作mysql
+http://www.cnblogs.com/lfk-dsk/p/4547686.html Android+Sqlite 实现古诗阅读应用（三）
+http://www.cnblogs.com/boss-he/p/4547425.html 优化更新语句中的标量子查询
+http://www.cnblogs.com/dongtianee/p/4545340.html 使用CSS3的box-shadow实现双透明遮罩层对话框
+http://www.cnblogs.com/songliquan/p/4546124.html IOS开发学习笔记037-九宫格代码实现
+http://www.cnblogs.com/woodytu/p/4546520.html SQL Server临界点游戏——为什么非聚集索引被忽略！
+http://www.cnblogs.com/sammyliu/p/4543597.html KVM 介绍（2）：CPU 和内存虚拟化
+http://www.cnblogs.com/msdynax/p/4546988.html Dynamics AX 2012 R3 Demo 安装与配置 - 安装数据服务器、AOS和客户端 (Step 2)
+http://www.cnblogs.com/jyzhao/p/4543555.html Vertica节点宕机处理一例
+http://www.cnblogs.com/yidianpang/p/4546847.html 分表数据的页面显示和后台传递（简单实现）
+http://www.cnblogs.com/mjlblog/p/4533073.html vs2010安装报错问题
+http://www.cnblogs.com/CasonChan/p/4546097.html 制作Xen Windows Server 2008(2012)模板镜像
+http://www.cnblogs.com/xuyinghui/p/4546762.html 安卓---数据存储
+http://www.cnblogs.com/suixinpeng/p/sqlserver_replication.html SQL SERVER发布与订阅 [原创]
+http://www.cnblogs.com/tiger-xc/p/4546702.html 泛函编程（28）－粗俗浅解：Functor, Applicative, Monad
+http://www.cnblogs.com/jerehedu/p/4546709.html IOS 播放动态Gif图片
+http://www.cnblogs.com/lhrbest/p/4546646.html 【RAC】rac环境下的数据库备份与还原
+http://www.cnblogs.com/ribavnu/p/4546552.html Py3+PyQt5+Eric6:学习记录之第一天:点击按钮获取文本框的值并输出。
+http://www.cnblogs.com/VolcanoCloud/p/4540569.html 《Entity Framework 6 Recipes》中文翻译系列 (37) ------ 第六章 继承与建模高级应用之独立关联与外键关联
+http://www.cnblogs.com/Kevin-Yang/p/4546386.html 在Linux下安装Myeclipse及Tomcat（含下载）
+http://www.cnblogs.com/yy-hh/p/4546301.html jQuery.extend()方法和jQuery.fn.extend()方法源码分析
+http://www.cnblogs.com/dxy1982/p/4520407.html 写给自己看的小设计7 - 对象设计过程之对象交互
+http://www.cnblogs.com/chasonzhang/p/4536597.html libvmi 安装配置过程记录
+http://www.cnblogs.com/Ribbon/p/4545998.html IE11之F12 Developer Tools--概述篇
+http://www.cnblogs.com/fangyuan1004/p/4081909.html Windows下WEB服务器的选择与搭建
+http://www.cnblogs.com/ivan-xu/p/4545929.html Android中自定义组合控件
+http://www.cnblogs.com/zhengrunjian/p/4545915.html 【hive】——Hive sql语法详解
+http://www.cnblogs.com/zhuimengdeyuanyuan/p/4545849.html GIS可视化
+http://www.cnblogs.com/kenkofox/p/4545789.html nodejs直接调用grunt（非调用批处理）
+http://www.cnblogs.com/chengzi/p/4545764.html ios基础之 透过页面跳转来认识 Strong 与 Weak
+http://www.cnblogs.com/zhangfeitao/p/4545554.html Spine批量导出Command line Export
+http://www.cnblogs.com/powertoolsteam/p/Diving-in-OOP-Day-Understanding-Enums-in-Csharp-A.html 深入浅出OOP（六）: 理解C#的Enums
+http://www.cnblogs.com/liyunhua/p/4544738.html chrome使用技巧（看了定不让你失望）
+http://www.cnblogs.com/TomXu/p/4496502.html 解读ASP.NET 5 &amp; MVC6系列（16）：自定义View视图文件查找逻辑
+http://www.cnblogs.com/fengwenit/p/4545466.html 用c#开发微信 (10) JS-SDK 基本用法- 分享接口“发送到朋友”
+http://www.cnblogs.com/jerehedu/p/4545443.html Andorid之官方导航栏Toobar
+http://www.cnblogs.com/colinhou/p/4542433.html iOS开发笔记4：HTTP网络通信及网络编程
+http://www.cnblogs.com/songliquan/p/4545207.html IOS开发学习笔记036-UIScrollView-循环自动滚动
+http://www.cnblogs.com/Coda/p/4545418.html Java知多少（80）图形界面设计基础
+http://www.cnblogs.com/mumuxinfei/p/4502768.html 台球游戏的核心算法和AI(2)
+http://www.cnblogs.com/cuiyansong/p/4542979.html 深入理解Ember-Data特性（下）
+http://www.cnblogs.com/wang-jiang/p/4545359.html 深入理解javascript new的机制
+http://www.cnblogs.com/znlgis/p/4545345.html 让Mono 4在Raspberry Pi上飞
+http://www.cnblogs.com/haojuncong/p/4545316.html ios开发-MapKit（地图框架）使用简介
+http://www.cnblogs.com/yby-blogs/p/4545303.html android数据存储之Sqlite（二）
+http://www.cnblogs.com/1024incn/p/4545265.html CUDA ---- Kernel性能调节
+http://www.cnblogs.com/qq9070/p/4545251.html iOS开发 －－制作圆形的头像（UIImage）
+http://www.cnblogs.com/VolcanoCloud/p/4539669.html 《Entity Framework 6 Recipes》中文翻译系列 (36) ------ 第六章 继承与建模高级应用之TPC继承映射
+http://www.cnblogs.com/cmt/p/4545170.html 又拍云突发故障造成图片无法上传
+http://www.cnblogs.com/chenzhao207/p/4544744.html CC2541蓝牙学习——看门狗
+http://www.cnblogs.com/wohexiaocai/p/4544793.html SqlServer 2008 R2定时备份数据库，并且发送邮件通知
+http://www.cnblogs.com/wgp13x/p/4544973.html 应用Spring MVC发布restful服务是怎样的一种体验
+http://www.cnblogs.com/PengLee/p/4544706.html 理解UI设计准则——边界视觉缺陷
+http://www.cnblogs.com/gg1234/p/4544866.html 《javascript高级程序设计》 touch事件的一个小错误
+http://www.cnblogs.com/yfsmooth/p/4544818.html XML文件解析之--DOM与SAX
+http://www.cnblogs.com/xuehanlee/p/4544819.html Java log4j的环境搭建
+http://www.cnblogs.com/songliquan/p/4544640.html IOS开发学习笔记035-UIScrollView-自动滚动
+http://www.cnblogs.com/zhangwanghua/p/4544635.html C++ 类族的设计
+http://www.cnblogs.com/LanTianYou/p/4544614.html Python中写一个乒乓球类的游戏
+http://www.cnblogs.com/dydzq/p/4544569.html SSAS中CUBE行权限数据级权限控制
+http://www.cnblogs.com/liyunhua/p/4534445.html JS性能方面--内存管理及ECMAScript5 Object的新属性方法
+http://www.cnblogs.com/xuesong/p/4544506.html Azure HDInsight 和 Spark 大数据分析（一）
+http://www.cnblogs.com/cchust/p/4544518.html Bug #19528825 &quot;UNABLE TO PURGE A RECORD&quot;
+http://www.cnblogs.com/jhmydear/p/4544452.html IE6+未知尺寸元素水平垂直居中
+http://www.cnblogs.com/kekukele/p/4544349.html Thinkphp 3.2 中词分词 加权搜索
+http://www.cnblogs.com/watermoon2/p/4544094.html [Asp.net 5] Localization-Asp.net运行时多语言
+http://www.cnblogs.com/aspnetx/p/4544319.html [BI项目记]-BUG创建
+http://www.cnblogs.com/littlepanpc/p/4544278.html [强文]Android最新支持包Design简介
+http://www.cnblogs.com/xiaocainiao2hao/p/4544312.html OSG项目经验2&lt;在场景中添加文字面版&gt;
+http://www.cnblogs.com/dimmacro/p/4544263.html 架构设计三部曲之如何评审架构设计说明书
+http://www.cnblogs.com/cxun/p/4544000.html 如何将密切好友的微信聊天记录恢复到自己的微信中
+http://www.cnblogs.com/cocos2014/p/4544225.html C++拷贝构造函数
+http://www.cnblogs.com/jameswenhe/p/4544217.html 扩展方法学习发展之路
+http://www.cnblogs.com/Dream-Fish/p/4544148.html python读写Excel文件--使用xlrd模块读取，xlwt模块写入
+http://www.cnblogs.com/punkisnotdead/p/4544076.html 如何自定义一个优雅的ContentProvider
+http://www.cnblogs.com/VolcanoCloud/p/4539506.html 《Entity Framework 6 Recipes》中文翻译系列 (35) ------ 第六章 继承与建模高级应用之TPH继承映射中使用复合条件
+http://www.cnblogs.com/ShadowFiend/p/4535959.html 由于代码已经过优化或者本机框架位于调用堆栈之上，无法计算表达式的值。
+http://www.cnblogs.com/GarveyCalvin/p/4504609.html Swift 与 Object-C 交互 （Swift版本为：1.2）
+http://www.cnblogs.com/linguanh/p/4543836.html C++ 与 php 的交互 之----- C++ 获取 网页文字内容，获取 php 的 echo 值。
+http://www.cnblogs.com/cmt/p/4543567.html 云计算之路-阿里云上：10:28-10:51云盾清洗以及IP切换引发的主站访问故障
+http://www.cnblogs.com/huangjianwu/p/4543612.html 使用Highcharts实现图表展示
+http://www.cnblogs.com/webda/p/4543609.html 关于模板中的动态取值  ---反射与javascript脚本编译
+http://www.cnblogs.com/shanlin/p/4543600.html WPF开发时光之痕日记本——终于完工了。。晒晒截图（三）（已上传安装包）
+http://www.cnblogs.com/liaolongjun/p/4543601.html 文件内容检索工具
+http://www.cnblogs.com/starof/p/4424926.html z-index堆叠规则
+http://www.cnblogs.com/wenxinghaha/p/4539060.html solr与.net系列课程(九)solr5.1的配置
+http://www.cnblogs.com/fidelQuan/p/4543387.html 缓存穿透与缓存雪崩
+http://www.cnblogs.com/cuiyansong/p/4542948.html 深入理解Ember-Data特性（上）
+http://www.cnblogs.com/woodytu/p/4543346.html 初涉SQL Server性能问题（1/4）：服务器概况
+http://www.cnblogs.com/sunniest/p/4543271.html Spring详细教程
+http://www.cnblogs.com/DeepLearing/p/4543266.html Sqlite基础简介
+http://www.cnblogs.com/figure9/p/whiteboard-coding-demystified.html 白板编程浅谈——Why, What, How
+http://www.cnblogs.com/smartloli/p/4543211.html Kafka实战－简单示例
+http://www.cnblogs.com/fengwenit/p/4543204.html 用c#开发微信 (9) 微渠道 - 推广渠道管理系统 4 部署测试 (最终效果图)
+http://www.cnblogs.com/wushangjue/p/4529063.html AngularJS入门之动画
+http://www.cnblogs.com/TomXu/p/4496497.html 解读ASP.NET 5 &amp; MVC6系列（15）：MvcOptions配置
+http://www.cnblogs.com/VolcanoCloud/p/4538473.html 《Entity Framework 6 Recipes》中文翻译系列 (34) ------ 第六章 继承与建模高级应用之多条件与QueryView
+http://www.cnblogs.com/asxinyu/p/dotnet_Opensource_project_CompareNet.html .NET平台开源项目速览(2)Compare .NET Objects对象比较组件
+http://www.cnblogs.com/BaiYiShaoNian/p/4543059.html 算法帝国--读书笔记
+http://www.cnblogs.com/qq9070/p/4543057.html ios消息推送--iOS 8.0 后
+http://www.cnblogs.com/asxinyu/p/dotnet_Opensource_project_CompareNet.html .NET平台开源项目速览(2)Compare .NET Objects对象比较组件
+http://www.cnblogs.com/BaiYiShaoNian/p/4543059.html 算法帝国--读书笔记
+http://www.cnblogs.com/qq9070/p/4543057.html ios消息推送--iOS 8.0 后
+http://www.cnblogs.com/DinoWu/p/4543033.html Windows 10 开发日记（四）-- 当Binding遇到异步 -- 问题的引出
+http://www.cnblogs.com/podolski/p/4543023.html 在git与tortoisegit中使用openSSH与PuTTY
+http://www.cnblogs.com/songliquan/p/4542779.html IOS开发学习笔记034-UIScrollView-xib实现分页
+http://www.cnblogs.com/mignet/p/Redis_Concurrent_generate_sequence_no.html 使用Redis实现高并发分布式序列号生成服务
+http://www.cnblogs.com/lazycat-cz/p/4541945.html 浮动与定位
+http://www.cnblogs.com/liuyanshi/p/4542978.html 计算机自我体系01一部分书和课程_
+http://www.cnblogs.com/hxsyl/p/4542917.html 甘特图入门介绍
+http://www.cnblogs.com/itdeboy/p/itdeboy_dotnet.html 【Oracle连接字符串】【Oracle Net Manager 服务命名配置】【PL/SQL 登陆数据库】
+http://www.cnblogs.com/dojo-lzz/p/4542943.html Javascript原型模式总结梳理
+http://www.cnblogs.com/bccs/p/4542913.html 基于Selenium的SeLion自动化测试框架之二（代码实现）
+http://www.cnblogs.com/wohexiaocai/p/4419602.html C# ICSharpCode.SharpZipLib.dll文件压缩和解压功能类整理，上传文件或下载文件很常用
+http://www.cnblogs.com/ldlchina/p/4541726.html JavaScript之this，new，delete，call，apply
+http://www.cnblogs.com/ilanni/p/4542896.html 烂泥：学习ubuntu远程桌面（一）：配置远程桌面
+http://www.cnblogs.com/hbsygfz/p/4542220.html python基础教程学习笔记---(6)文件读写
+http://www.cnblogs.com/renshengrucha/p/4542857.html Jquery图片轮播和CSS图片轮播
+http://www.cnblogs.com/Jack47/p/sstable-2.html SSTable 介绍（二）
+http://www.cnblogs.com/mushroom/p/4542772.html 探索C#之虚拟桶分片
+http://www.cnblogs.com/zhangzph/p/4542767.html C++ 学习笔记之---类和动态内存分配
+http://www.cnblogs.com/OceanEyes/p/thinking-in-asp-net-mvc-what-is-owin.html ASP.NET MVC随想录——漫谈OWIN
+http://www.cnblogs.com/VolcanoCloud/p/4537439.html 《Entity Framework 6 Recipes》中文翻译系列 (33) ------ 第六章 继承与建模高级应用之TPH与TPT (2)
+http://www.cnblogs.com/owenyang/p/4542748.html 两分钟了解REACTIVEX
+http://www.cnblogs.com/daishimin/p/4542622.html 团队项目制定计划
+http://www.cnblogs.com/yxlove/p/4542620.html 5.7.1.2  eval() 方法
+http://www.cnblogs.com/PengLee/p/4198563.html Android——自带侧滑菜单DrawerLayout的使用方法
+http://www.cnblogs.com/liyunhua/p/4540587.html 利用css3选择器及css3边框做出的特效(1)
+http://www.cnblogs.com/frombeijingwithlove/p/4470920.html 翻译《Writing Idiomatic Python》（五）：类、上下文管理器、生成器
+http://www.cnblogs.com/rwxwsblog/p/4542417.html mysql主从复制实现数据库同步
+http://www.cnblogs.com/wufengtinghai/p/4542366.html 打造Ubuntu下Java开发环境
+http://www.cnblogs.com/colinhou/p/4542227.html iOS开发笔记3：XML/JSON数据解析
+http://www.cnblogs.com/wsy19940622/p/4542277.html Css的选择器与定位问题
+http://www.cnblogs.com/zengda/p/4542229.html jQuery中事情的动态绑定
+http://www.cnblogs.com/mengda1027/p/4542213.html 利用@font-face加载Web字体
+http://www.cnblogs.com/hbsygfz/p/4542131.html python基础教程学习笔记---(5)条件、循环和其他语句
+http://www.cnblogs.com/chxer/p/4542068.html A*算法完全理解
+http://www.cnblogs.com/RGogoing/p/4542019.html Android View 之进度条+拖动条+星级评论条....
+http://www.cnblogs.com/kodoyang/p/GeneratingFunction_HomogeneousLinearRecurrenceRelation.html 母函数与线性常系数齐次递推关系
+http://www.cnblogs.com/BaiYiShaoNian/p/4541914.html 这就是搜索引擎--读书笔记四--索引基础
+http://www.cnblogs.com/xiaozhi_5638/p/4541884.html Some practices to write better C#/.NET code（译）
+http://www.cnblogs.com/lztkdr/p/4541872.html 人生到底该何去何从？我们的人生怎样才能不迷茫
+http://www.cnblogs.com/likeandroid/p/4541863.html Android Design Support Library 中控件的使用简单介绍（一）
+http://www.cnblogs.com/jhmydear/p/4541848.html 由css reset想到的深入理解margin及em的含义
+http://www.cnblogs.com/wubugui/p/4541812.html 海洋模拟
+http://www.cnblogs.com/RainingDays/p/4541774.html 淘宝业务 一堆shit
+http://www.cnblogs.com/nslogmeng/p/4541360.html (5/18)重学Standford_iOS7开发_视图控制器生命周期_课程笔记
+http://www.cnblogs.com/constructor/p/4541179.html 碎裂效果尝试(clip-path篇)
+http://www.cnblogs.com/lizhanwu/p/4541654.html 决定：现公司准备另谋出路，还是往前坑里再走一步
+http://www.cnblogs.com/Coda/p/4541655.html Java知多少（78）Java向量(Vector)及其应用
+http://www.cnblogs.com/PengLee/p/4541489.html 理解UI设计准则——格式塔原理
+http://www.cnblogs.com/hyd1213126/p/4539648.html 窗体间传值
+http://www.cnblogs.com/aspnetx/p/4541616.html [BI项目记]-DB脚本同步
+http://www.cnblogs.com/simonxia/p/4541558.html Houdini中全景摄像机shader立体左右眼成像方法
+http://www.cnblogs.com/voidy/p/4541530.html 玩转VIM-札记（三）
+http://www.cnblogs.com/RainbowInTheSky/p/4540642.html jquery.unobtrusive-ajax.js单独的用法
+http://www.cnblogs.com/simonxia/p/4480804.html 通过 TouchDesigner 提取 Kinect2 的点云信息
+http://www.cnblogs.com/ahthw/p/4541446.html 第三章：模块加载系统（requirejs）
+http://www.cnblogs.com/bitzhuwei/p/modern-opengl-picking-primitive-in-VBO-3.html Modern OpenGL用Shader拾取VBO内单一图元的思路和实现(3)
+http://www.cnblogs.com/junyuhuang/p/4390780.html 快速排序深入之荷兰国旗问题
+http://www.cnblogs.com/mienreal/p/4541335.html 基于DDD的现代ASP.NET开发框架--ABP系列之5、ABP启动配置
+http://www.cnblogs.com/lomper/p/4541317.html git多站点多用户情况下SSH配置
+http://www.cnblogs.com/1024incn/p/4541313.html CUDA ---- Warp解析
+http://www.cnblogs.com/xuehanlee/p/4541276.html Struts2+Ajax实现检测用户名是否唯一
+http://www.cnblogs.com/wohexiaocai/p/4302200.html C#按回车Enter使输入焦点自动跳到下一个TextBox的方法收集
+http://www.cnblogs.com/redmoon/p/4541242.html 在ASP.NET 5中如何方便的添加前端库
+http://www.cnblogs.com/wohexiaocai/p/3383116.html SqlServer知识点记录分享
+http://www.cnblogs.com/kylinxue/p/4539609.html Unity跑酷游戏中的路点生成算法
+http://www.cnblogs.com/zhouxuanyu/p/4541207.html Java中对象的复制
+http://www.cnblogs.com/zyf-zhaoyafei/p/4541182.html php页面编码与字符操作
+http://www.cnblogs.com/aspnetx/p/4541159.html [BI项目记]-对项目文件进行规划
+http://www.cnblogs.com/jcchen1987/p/4541139.html 数独游戏的求解过程
+http://www.cnblogs.com/modestmt/p/4540818.html 离线安装 Cloudera ( CDH 5.x )
+http://www.cnblogs.com/Kassadin/p/4541103.html 简单易懂的现代魔法——Play Framework攻略4
+http://www.cnblogs.com/liuzhendong/p/4541054.html (ETW) Event Tracing for Windows 入门 (含pdf下载)
+http://www.cnblogs.com/CreateMyself/p/4540649.html 纪念大学和逝去的亲人...
+http://www.cnblogs.com/xiaofeixiang/p/4541025.html 算法-表达式求值
+http://www.cnblogs.com/moye/p/dsl_in_action.html [Node.js] DSL in action
+http://www.cnblogs.com/Lorraine1/p/4540947.html 关情纸尾-----内存管理
+http://www.cnblogs.com/yxlove/p/4540937.html 5.7.1.1 单体内置对象
+http://www.cnblogs.com/IT-xiao-jian/p/4540904.html 无限轮播图
+http://www.cnblogs.com/wunaozai/p/4536817.html 博客增加二维码功能
+http://www.cnblogs.com/linguanh/p/4540789.html android UI 仿 win 8 模块化 标题，并实现 可长按拖动交换图片位置、可点击，且伴随动画特效
+http://www.cnblogs.com/tugenhua0707/p/4540766.html javascript客户端检测技术
+http://www.cnblogs.com/fnng/p/4540731.html Appium移动自动化测试（一）--安装Appium
+http://www.cnblogs.com/huangjianwu/p/4540698.html 前端知识入门资料
+http://www.cnblogs.com/RGogoing/p/4539490.html Android View之用户界面...
+http://www.cnblogs.com/icedream61/p/4538636.html Django笔记 —— MySQL安装
+http://www.cnblogs.com/youge/p/4518739.html Emacs 快速指南 - 原生中文手册
+http://www.cnblogs.com/AndroidJotting/p/4540637.html Androd开发之广告栏设计
+http://www.cnblogs.com/liyunhua/p/4539805.html 从js的repeat方法谈js字符串与数组的扩展方法
+http://www.cnblogs.com/jr1993/p/4540549.html JS封装简单后代选择器
+http://www.cnblogs.com/zpjjtzzq/p/4540545.html STL内存管理
+http://www.cnblogs.com/sevenlin/p/mybatis_spring.html mybatis与spring的整合
+http://www.cnblogs.com/skychen1218/p/4540482.html 面向对象基础
+http://www.cnblogs.com/xiangism/p/4467603.html 打磨程序员的专属利器——命令行&amp;界面
+http://www.cnblogs.com/xiaofeixiang/p/4540286.html iOS开发-音乐播放(AVAudioPlayer)
+http://www.cnblogs.com/boy1025/p/4540200.html Android数据存储-文件操作
+http://www.cnblogs.com/dbao-8283/p/4540197.html U3D应用缓存管理物体
+http://www.cnblogs.com/weidagang2046/p/fp-without-lambda-2.html Functional Programming without Lambda - Part 2 Lifting, Functor, Monad
+http://www.cnblogs.com/lanston/p/db_disaster_recover.html 数据库灾难性环境下恢复
+http://www.cnblogs.com/linguanh/p/4540099.html android 布局 使用 viewPager 时，如何解决 和 子页面 长按滑动 冲突问题
+http://www.cnblogs.com/wangqiguo/p/4539268.html 如何修改文件中间的几个字节
+http://www.cnblogs.com/byronic/p/4540012.html VUE.JS学习笔记（v-model、Handling Forms）
+http://www.cnblogs.com/chillsrc/p/4539947.html WPF入门教程系列六——布局介绍与Canvas（一）
+http://www.cnblogs.com/ScauZhang/p/4539877.html 仿照Div.IO做的一个网页
+http://www.cnblogs.com/msdynax/p/4539834.html Dynamics AX 2012 R3 Demo 安装与配置 - 配置安装环境 (Step 1)
+http://www.cnblogs.com/sunniest/p/4539817.html Hibernate详细教程
+http://www.cnblogs.com/respawn/p/4539812.html `cocos2dx非完整` 日志模块 增量更新
+http://www.cnblogs.com/lip0121/p/4539801.html 利用HttpWebRequest实现实体对象的上传
+http://www.cnblogs.com/xiaoyaojian/p/4539795.html ASP.NET5之客户端开发：Grunt和Gulp构建工具在Visual Studio 2015中的高效的应用
+http://www.cnblogs.com/xuanku/p/iaas.html IaaS层市场科普
+http://www.cnblogs.com/wjszxli/p/4539739.html 5月读书日志
+http://www.cnblogs.com/idoudou/p/xmldocumentation-for-web-api-include-documentation-from-beyond-the-main.html WebAPI使用多个xml文件生成帮助文档
+http://www.cnblogs.com/lazycat-cz/p/4532021.html 选择器
+http://www.cnblogs.com/zhouxin/p/4537929.html Ogre RTSS组件解析
+http://www.cnblogs.com/1zhk/p/4539645.html ROCK 聚类算法‏
+http://www.cnblogs.com/ITLiu/p/4539630.html 【好程序员训练营】Objective-C学习笔记（类的声明）NO1
+http://www.cnblogs.com/yoyaprogrammer/p/dive_into_wordcount_1.html 从WordCount看Spark大数据处理的核心机制（1）
+http://www.cnblogs.com/caofangsheng/p/4539546.html IT人生思考
+http://www.cnblogs.com/hxsyl/p/4539492.html 求一份暑假实习工作
+http://www.cnblogs.com/loveis715/p/4539505.html Joshua Bloch错了？ ——适当改变你的Builder模式实现
+http://www.cnblogs.com/lh218/p/4539457.html 实例上下文模式：会话模式
+http://www.cnblogs.com/VolcanoCloud/p/4534807.html 《Entity Framework 6 Recipes》中文翻译系列 (32) ------ 第六章 继承与建模高级应用之TPH与TPT (1)
+http://www.cnblogs.com/chenzhao207/p/4539197.html CC2541蓝牙学习——ADC
+http://www.cnblogs.com/c-and-unity/p/4539348.html windows环境下XAMPP安装、多域名多端口配置、与python环境并存
+http://www.cnblogs.com/PengLee/p/4536813.html 理解UI设计准则——从心理学出发
+http://www.cnblogs.com/gaoshang212/p/4539273.html 【Win10】UAP/UWP/通用 开发之 RelativePanel
+http://www.cnblogs.com/linerz/p/react-flux-example-todomvc-analysis.html react及flux架构范例Todomvc分析
+http://www.cnblogs.com/BaiYiShaoNian/p/4539195.html 这就是搜索引擎--读书笔记三
+http://www.cnblogs.com/wohexiaocai/p/4539015.html C#为工作Sql而产生的字符串分割小工具（很实用，你值得拥有）
+http://www.cnblogs.com/sopic/p/4538052.html 纯Python综合图像处理小工具（3）10种滤镜算法
+http://www.cnblogs.com/superjs/p/4539089.html 大话cocos2d-js(1)
+http://www.cnblogs.com/fly-100/p/4538975.html C# Unity游戏开发——Excel中的数据是如何到游戏中的 （一）
+http://www.cnblogs.com/chihane/p/4538845.html 由LruCache和DiskLruCache提供三级缓存支持的ImageLoader
+http://www.cnblogs.com/Aralic/p/4538846.html gulp 入门学习
+http://www.cnblogs.com/shijiayi/p/4538797.html 软件测试系列--配置管理
+http://www.cnblogs.com/hzhesi/p/4538765.html FE: Responsive Web Design Overview
+http://www.cnblogs.com/bitzhuwei/p/modern-opengl-picking-primitive-in-VBO-2.html Modern OpenGL用Shader拾取VBO内单一图元的思路和实现(2)
+http://www.cnblogs.com/ShadowFiend/p/4536644.html [原创]ie6,7中td和img之间有间隙
+http://www.cnblogs.com/liyunhua/p/4537730.html 整理CSS引发的相关理论的梳理
+http://www.cnblogs.com/whyoop/p/4538502.html queue-fun基于Promise的队列控制模块。
+http://www.cnblogs.com/jerehedu/p/4538459.html 使用ECharts实现数据图表分析
+http://www.cnblogs.com/VolcanoCloud/p/4532183.html 《Entity Framework 6 Recipes》中文翻译系列 (31) ------ 第六章 继承与建模高级应用之自引用关联
+http://www.cnblogs.com/cangqiongbingchen/p/4538404.html MySQL各模块工作配合
+http://www.cnblogs.com/toutou/p/4538365.html 博客园的神回复，一起看看那些IT男的神回复[连载][一]
+http://www.cnblogs.com/DeepLearing/p/4538236.html .NET动态调用WebService
+http://www.cnblogs.com/SpongeBob-GitHub/p/4496164.html Apache &amp; WebDav 配置（一）
+http://www.cnblogs.com/respawn/p/4538245.html `cocos2dx非完整` 游戏架构缩影 添加启动流程
+http://www.cnblogs.com/pear-lemon/p/4538244.html java位操作总结
+http://www.cnblogs.com/liuliuliu/p/4538240.html Toncat-OpenSSL双向认证配置（iOS）
+http://www.cnblogs.com/tianqiq/p/4538194.html .net比较完美的动态注册com组件
+http://www.cnblogs.com/smartloli/p/4538173.html Kafka实战－Kafka Cluster
+http://www.cnblogs.com/huangjianwu/p/4537976.html Upgrade site collection from SP2010 to SP2013(Part 1)
+http://www.cnblogs.com/sopic/p/4537718.html 纯Python综合图像处理小工具（2）图像增强
+http://www.cnblogs.com/Shirlies/p/4537931.html 用Scrapy爬虫下载图片(豆瓣电影图片)
+http://www.cnblogs.com/boy1025/p/4537856.html 学习通过Thread+Handler实现非UI线程更新UI组件
+http://www.cnblogs.com/xing901022/p/4537810.html 我的大学 --- 与书为伴
+http://www.cnblogs.com/dsxniubility/p/4533558.html iOS端项目注释规范附统一代码块
+http://www.cnblogs.com/psp429504257/p/4537707.html HR筒子说：程序猿面试那点事
+http://www.cnblogs.com/TomXu/p/4496486.html 解读ASP.NET 5 &amp; MVC6系列（14）：View Component
+http://www.cnblogs.com/wushangjue/p/4533953.html AngularJS入门之Services
+http://www.cnblogs.com/fengwenit/p/4537689.html 用c#开发微信 (8) 微渠道 - 推广渠道管理系统 3 UI设计及后台处理
+http://www.cnblogs.com/jerehedu/p/4537663.html 内存优化之封装九宫格
+http://www.cnblogs.com/liyunhua/p/4536856.html 高性能JavaScript（您值得一看）
+http://www.cnblogs.com/starof/p/4424347.html css3 box-shadow
+http://www.cnblogs.com/Coda/p/4537639.html Java知多少（77）日期和时间类
+http://www.cnblogs.com/technology-life/p/4537609.html 关于z-index的总结
+http://www.cnblogs.com/mienreal/p/4537522.html 基于DDD的现代ASP.NET开发框架--ABP系列之4、ABP模块系统
+http://www.cnblogs.com/haojuncong/p/4537411.html ios开发-日期处理（类似朋友圈，微博等的发送时间）
+http://www.cnblogs.com/BaiYiShaoNian/p/4537379.html Python学习总结之五 -- 入门函数式编程
+http://www.cnblogs.com/f1194361820/p/4537344.html ThreadDump 的获取与分析工具
+http://www.cnblogs.com/tiger-xc/p/4537281.html 泛函编程（27）－泛函编程模式－Monad Transformer
+http://www.cnblogs.com/huangjianwu/p/4537301.html 上传文件到 Sharepoint 的文档库中和下载 Sharepoint 的文档库的文件到客户端
+http://www.cnblogs.com/VolcanoCloud/p/4527549.html 《Entity Framework 6 Recipes》中文翻译系列 (30) ------ 第六章 继承与建模高级应用之多对多关联
+http://www.cnblogs.com/fkpj/p/4537145.html Doxygen给C程序生成注释文档
+http://www.cnblogs.com/QG-whz/p/4536875.html 二叉查找树 C++实现（含完整代码）
+http://www.cnblogs.com/UnGeek/p/4537114.html [原创]loki库之内存池SmallObj
+http://www.cnblogs.com/hbsygfz/p/4537098.html python基础教程学习笔记---(4)字典
+http://www.cnblogs.com/porcoGT/p/4537064.html spring4.2完整web项目（使用html视图解析器）
+http://www.cnblogs.com/qicosmos/p/4537051.html c++11实现一个简单的lexical_cast
+http://www.cnblogs.com/jweiswu/p/reboot.html 做一个分布式、跨语言、跨平台、敏捷 需要那些技术做支撑？
+http://www.cnblogs.com/Shirlies/p/4536880.html Scrapy安装、爬虫入门教程、爬虫实例（豆瓣电影爬虫）
+http://www.cnblogs.com/blog470130547/p/4536786.html 连载《一个程序猿的生命周期》-18.离职前与领导的交流
+http://www.cnblogs.com/wunaozai/p/4534302.html Socket网络编程--FTP客户端(2)(Windows)
+http://www.cnblogs.com/rwxwsblog/p/4536592.html YY博客园UML用例图-活动图-状态图之博客模块
+http://www.cnblogs.com/chengzi/p/4536608.html IOS高级编程之三：IOS 多线程编程
+http://www.cnblogs.com/DeepLearing/p/4536588.html DevExpress GridControl 单元格添加进度条(ProgressBar)
+http://www.cnblogs.com/zhengrunjian/p/4536572.html 【hadoop】如何向map和reduce脚本传递参数,加载文件和目录
+http://www.cnblogs.com/LionHeart-Grady/p/thesis-03.html Discretized Streams: An Efficient and Fault-Tolerant Model for Stream Processing on Large Clusters
+http://www.cnblogs.com/zhouxuanyu/p/4536514.html 了解Java1.8新特性
+http://www.cnblogs.com/DeepLearing/p/4530400.html 何时进行代码重构?
+http://www.cnblogs.com/RGogoing/p/4536457.html Android 简单计算器源码....
+http://www.cnblogs.com/liyunhua/p/4536291.html 用css3实现各种图标效果（2）
+http://www.cnblogs.com/richqian/p/4535550.html 【原创】牛顿法和拟牛顿法 -- BFGS, L-BFGS, OWL-QN
+http://www.cnblogs.com/gaoshang212/p/4536453.html 【Win10】UAP/UWP/通用 开发之 SplitView
+http://www.cnblogs.com/BaiYiShaoNian/p/4536446.html 这就是搜索引擎--读书笔记二
+http://www.cnblogs.com/rubylouvre/p/4536334.html 何谓domReady
+http://www.cnblogs.com/zhoujg/p/4534932.html Cordova webapp实战开发：（2）认识一下Cordova
+http://www.cnblogs.com/watermoon2/p/4536196.html [Asp.net 5] Localization-简单易用的本地化-全球化信息
+http://www.cnblogs.com/crucify-lee/p/4536269.html JavaScript 中的事件类型2（读书笔记思维导图）
+http://www.cnblogs.com/morvenhuang/p/4536252.html HBase + Kerberos 配置示例（二）
+http://www.cnblogs.com/izhiniao/p/4536217.html 自己动手写 ASP.NET MVC 分页     part1
+http://www.cnblogs.com/xujian2014/p/4536168.html Servlet基本用法（二）接口和类
+http://www.cnblogs.com/Apq/p/MsSql_LockProcess.html SQL Server中CURD语句的锁流程分析
+http://www.cnblogs.com/littlepanpc/p/4536111.html 对谷歌自带闹钟应用中材料设计的吹毛求疵
+http://www.cnblogs.com/yuqiyang/p/4536112.html Cosmos Fundamentals
+http://www.cnblogs.com/ahdung/p/4536085.html 【C#】让DataGridView输入中实时更新数据源中的计算列
+http://www.cnblogs.com/KevinSong/p/4535977.html Developer - 如何自我保证Node.js模块质量
+http://www.cnblogs.com/gaohongchen01/p/4535670.html 程序设计原则(总结)
+http://www.cnblogs.com/xiaofeixiang/p/4535825.html 算法-递归
+http://www.cnblogs.com/davidwang456/p/4522408.html spring security源码分析之web包分析
+http://www.cnblogs.com/xiaoheimiaoer/p/4535676.html H5页面音频自动播放问题
+http://www.cnblogs.com/bitzhuwei/p/modern-opengl-picking-primitive-in-VBO.html Modern OpenGL用Shader拾取VBO内单一图元的思路和实现
+http://www.cnblogs.com/it-cen/p/4535219.html JQuery插件ajaxFileUpload 异步上传文件（PHP版）
+http://www.cnblogs.com/psp429504257/p/4535471.html 学习swift语言的快速入门教程推荐
+http://www.cnblogs.com/logicvay2010/p/4535448.html 实训随笔：EL表达式JSON应用
+http://www.cnblogs.com/aser1989/p/4527491.html 浅谈移动前端性能优化
+http://www.cnblogs.com/hutuzhu/p/4535234.html 谈谈HTML5中的history.pushSate方法，弥补ajax导致浏览器前进后退无效的问题
+http://www.cnblogs.com/woodytu/p/4535099.html 第9/24周 理解执行计划
+http://www.cnblogs.com/crucify-lee/p/4535204.html JavaScript 中的事件流和事件处理程序（读书笔记思维导图）
+http://www.cnblogs.com/hukezhu/p/4535106.html ios开发-UI-UITableView及一个小实例
+http://www.cnblogs.com/TomXu/p/4496480.html 解读ASP.NET 5 &amp; MVC6系列（13）：TagHelper
+http://www.cnblogs.com/keguangqiang/p/4535046.html 一道看似简单的sql需求却难倒各路高手 - 你也来挑战下吗？
+http://www.cnblogs.com/fengwenit/p/4535020.html 用c#开发微信 (7) 微渠道 - 推广渠道管理系统 2 业务逻辑实现
+http://www.cnblogs.com/rwxwsblog/p/4535014.html YY博客园UML时序图之博客模块
+http://www.cnblogs.com/gaohongchen01/p/4534194.html Qt样式表的使用
+http://www.cnblogs.com/asxinyu/p/dotnet_Opensource_project_SharpConfig.html .NET平台开源项目速览(1)SharpConfig配置文件读写组件
+http://www.cnblogs.com/Kassadin/p/4534952.html 使用Zint和Zxing实现二维码的编码与解码（Using open-source tools to generate and decode Q-R code）
+http://www.cnblogs.com/jasondan/p/4534008.html 献给喜欢落网的朋友们
+http://www.cnblogs.com/tishifu/p/4534837.html 我们想要什么样的互联网金融？
+http://www.cnblogs.com/VolcanoCloud/p/4525897.html 《Entity Framework 6 Recipes》中文翻译系列 (29) ------ 第五章 加载实体和导航属性之过滤预先加载的实体集合和修改外键关联
+http://www.cnblogs.com/haojuncong/p/4534797.html ios开发-程序压后台后，悄悄的抓取数据~~
+http://www.cnblogs.com/ahthw/p/4534772.html 第二章 ： 种子模块
+http://www.cnblogs.com/wjx0912/p/4534748.html 抓包软件PowerSniff开发计划
+http://www.cnblogs.com/123-/p/4534734.html Hadoop1.2.1 的 “Hello world！”
+http://www.cnblogs.com/quan2005/p/4534719.html MVC5在Mono上的各种坑
+http://www.cnblogs.com/hbsygfz/p/4530299.html python基础教程学习笔记---(2)列表和元组
+http://www.cnblogs.com/yxlove/p/4534704.html 5.6.3.6 字符串的模式匹配方法
+http://www.cnblogs.com/wicrecend/p/4534702.html 测试员，敢问路在何方
+http://www.cnblogs.com/mienreal/p/4534598.html 基于DDD的现代ASP.NET开发框架--ABP系列之3、ABP分层架构
+http://www.cnblogs.com/tanghuimin0713/p/4534642.html kvm初体验之五：vm连接网络的两种方式：bridge和nat
+http://www.cnblogs.com/aspnetx/p/4534617.html [BI项目记]-搭建代码管理环境之签入代码
+http://www.cnblogs.com/NGNL/p/4534601.html WinSock网络编程基础（2）客户端
+http://www.cnblogs.com/zhili/p/OnlineStore_Second.html [.NET领域驱动设计实战系列]专题五：网上书店规约模式、工作单元模式的引入以及购物车的实现
+http://www.cnblogs.com/jinhuazhe2013/p/4532868.html JSON对象和String之间的互转及处理
+http://www.cnblogs.com/lh218/p/4534506.html 实例上下文模式：单例模式
+http://www.cnblogs.com/zhangzph/p/4534503.html C++ 学习笔记之---类的自动转换
+http://www.cnblogs.com/gwgyk/p/4531947.html hadoop配置机架感知
+http://www.cnblogs.com/liyunhua/p/4533581.html 用css3实现各种图标效果（1）
+http://www.cnblogs.com/lfk-dsk/p/4532974.html openfire+asmack搭建的安卓即时通讯（七） 15.5.27
+http://www.cnblogs.com/chengzish/p/4531383.html Bootstrap--模仿官网写一个页面
+http://www.cnblogs.com/jcchen1987/p/4531561.html 斯坦福机器学习实现与分析之八（kmeans算法）
+http://www.cnblogs.com/xiaofeixiang/p/4532679.html 算法-最大公约数
+http://www.cnblogs.com/dimmacro/p/4534260.html 关于系统分析师的考试感想
+http://www.cnblogs.com/sirliu/p/4534121.html 基于SpringMVC与jquery的ajax提交表单的若干情况详解
+http://www.cnblogs.com/zmanone/p/4532842.html 64位Win7下编译Python3的计算机视觉库：OpenCV
+http://www.cnblogs.com/colvinliu/p/4533794.html 一次Dapper高并发测试报告记录. 结果....
+http://www.cnblogs.com/KC-Mei/p/4534009.html 【OpenCV】基于HOG与SVM的行人检测学习
+http://www.cnblogs.com/RainbowInTheSky/p/4533836.html 不复杂的Autofac注入
+http://www.cnblogs.com/gaohongchen01/p/4533966.html Qt数据库操作
+http://www.cnblogs.com/pona/p/4533051.html Guava源码分析——Objects
+http://www.cnblogs.com/nslogmeng/p/4529498.html (4/18)重学Standford_iOS7开发_框架和带属性字符串_课程笔记
+http://www.cnblogs.com/digdeep/p/4528353.html Spring AOP 深入剖析
+http://www.cnblogs.com/chenzhao207/p/4531941.html CC2541蓝牙学习——串口_1
+http://www.cnblogs.com/everxs/p/4533632.html 如何开发一个java开源框架-----Jvn框架之实现自定义Annotation以及拦截器（第五讲）
+http://www.cnblogs.com/OneAPM1/p/4533620.html 【译】 沙箱中的间谍 - 可行的 JavaScript 高速缓存区攻击
+http://www.cnblogs.com/1wen/p/4533608.html 前端们，gulp该用起来了，简单的demo入门——gulp系列（一）
+http://www.cnblogs.com/zhoujg/p/4533560.html Cordova webapp实战开发：（1）为什么选择 Cordova webapp？
+http://www.cnblogs.com/xiaojian1987/p/4533317.html 浅谈Fluent Ribbon 中的SplitButton
+http://www.cnblogs.com/richqian/p/4533508.html 【原创】寻找方程等于0的数值算法总结
+http://www.cnblogs.com/yfsmooth/p/4531827.html js实现相册翻页，滚动，切换，轮播功能
+http://www.cnblogs.com/xianhaiyan/p/4533483.html soapUI快速入门（测试一个登录接口）
+http://www.cnblogs.com/lhrbest/p/4533422.html 【RMAN】RMAN脚本中使用替换变量
+http://www.cnblogs.com/rwxwsblog/p/4533086.html YY博客园UML类图之博客模块
+http://www.cnblogs.com/hutuzhu/p/4533270.html 关于display:inline-block布局导致错位问题分析
+http://www.cnblogs.com/liushaobo/p/4533237.html Cloudera Manager 5和CDH5离线安装
+http://www.cnblogs.com/RainbowInTheSky/p/4531786.html Autofac的注入和web.config配合
+http://www.cnblogs.com/hxwj/p/4533074.html UITbaleView上按钮的单选
+http://www.cnblogs.com/kingkoo/p/4533067.html DMSFrame 之简单用法（一）
+http://www.cnblogs.com/ty408/p/4532969.html 说说溢算那些事~！你的计算方式溢算了吗？
+http://www.cnblogs.com/brolanda/p/4532779.html eclipse使用技巧
+http://www.cnblogs.com/RGogoing/p/4531572.html Android View中的控件和监听方法...
+http://www.cnblogs.com/IT-xiao-jian/p/4532768.html NSCondition的用法
+http://www.cnblogs.com/chen8840/p/4532656.html 使用xdebug+eclipse远程调试centOS7上的PHP代码
+http://www.cnblogs.com/jingmoxukong/p/4532680.html [spring]03_装配Bean
+http://www.cnblogs.com/softwaretailor/p/4532669.html 新到公司遇到的事
+http://www.cnblogs.com/tolimit/p/4530370.html linux源码分析 - 进程
+http://www.cnblogs.com/hxsyl/p/4532592.html ITQ迭代量化方法解析
+http://www.cnblogs.com/watermoon2/p/4527149.html [Asp.net 5] Configuration-新一代的配置文件
+http://www.cnblogs.com/TomXu/p/4496468.html 解读ASP.NET 5 &amp; MVC6系列（12）：基于Lamda表达式的强类型Routing实现
+http://www.cnblogs.com/blog470130547/p/4532477.html 连载《一个程序猿的生命周期》-17.最后的项目，抑郁了
+http://www.cnblogs.com/fengwenit/p/4532472.html 用c#开发微信 (6) 微渠道 - 推广渠道管理系统 1 基础架构搭建
+http://www.cnblogs.com/wushangjue/p/4527487.html AngularJS入门之数据验证
+http://www.cnblogs.com/Coda/p/4532424.html Java知多少（75）Object类
+http://www.cnblogs.com/me115/p/4529944.html 使用ansible批量管理远程服务器
+http://www.cnblogs.com/asxinyu/p/MachineLearning_PageRank_TeamRank_2.html 【原创】机器学习之PageRank算法应用与C#实现(2)球队排名应用与C#代码
+http://www.cnblogs.com/liulun/p/4530183.html Nim教程【八】（博客园撰写工具客户端更新）
+http://www.cnblogs.com/zskbll/p/4532256.html C#微信开发小白成长教程一（公众平台的工作原理与调试环境部署，附视频）
+http://www.cnblogs.com/ahthw/p/4532213.html 第一章 ： javaScript框架分类及主要功能
+http://www.cnblogs.com/lh218/p/4532178.html 实例上下文模式：单调模式
+http://www.cnblogs.com/mienreal/p/4532077.html 基于DDD的现代ASP.NET开发框架--ABP系列之2、ABP入门教程
+http://www.cnblogs.com/hantianwei/p/4531972.html 山寨版Quartz.Net任务统一调度框架
+http://www.cnblogs.com/xhload3d/p/4532130.html 扩展HT for Web之HTML5表格组件的Renderer和Editor
+http://www.cnblogs.com/crucify-lee/p/4532159.html JavaScript 中的继承（读书笔记思维导图）
+http://www.cnblogs.com/freedom314/p/4532150.html C++输入输出总结_输入
+http://www.cnblogs.com/zhaokuo/p/4532106.html 堆排序（c++第一次尝试）
+http://www.cnblogs.com/wuhuacong/p/4532025.html 基于Enterprise Library的Winform开发框架实现支持国产达梦数据库的扩展操作
+http://www.cnblogs.com/haojuncong/p/4532026.html ios开发-指纹识别
+http://www.cnblogs.com/liyunhua/p/4531909.html JavaScript杂谈（顺便也当知识积累）
+http://www.cnblogs.com/aquastone/p/labour-jobs-and-working.html 关于找工作和工作的一点思考：劳动经济学观点
+http://www.cnblogs.com/constructor/p/4531803.html 碎裂效果尝试(canvas篇)
+http://www.cnblogs.com/ChaosJu/p/4531795.html java多线程(二)——用到的设计模式
+http://www.cnblogs.com/aspnetx/p/4531775.html [BI项目记]-搭建代码管理环境之创建团队项目
+http://www.cnblogs.com/i6first/p/4531685.html 对已存在的表进行分区时遇到的坑
+http://www.cnblogs.com/wateriness/p/4531676.html java类中各成员初始化的顺序
+http://www.cnblogs.com/yigedaizi/p/4531635.html 跟我一起学WPF（2）：WPF控件基础
+http://www.cnblogs.com/songliquan/p/4529962.html IOS开发学习笔记033-UIScrollView
+http://www.cnblogs.com/archimedes/p/4531330.html hadoop2.6完全分布式安装HBase1.1
+http://www.cnblogs.com/watermoon2/p/4530621.html [Asp.net 5] Configuration-新一代的配置文件（神奇的Binder）
+http://www.cnblogs.com/respawn/p/4531201.html `cocos2dx非完整` 添加xxtea加密模块
+http://www.cnblogs.com/xling/p/4531190.html Xamarin.Form 项目总结
+http://www.cnblogs.com/wubugui/p/4531181.html 【pbrt】使用openFrameworks调用pbrt
+http://www.cnblogs.com/sirkevin/p/4531160.html iOS: 在iPhone和Apple Watch之间共享数据: App Groups
+http://www.cnblogs.com/fanfan259/p/4530711.html 常用排序算法 - 稳定性和复杂度分析
+http://www.cnblogs.com/mengdd/p/4531064.html Android Activity launchMode研究
+http://www.cnblogs.com/huangzelin/p/4530950.html 探究Repository模式的两种写法与疑惑
+http://www.cnblogs.com/jyzhao/p/4530575.html Oracle简单常用的数据泵导出导入(expdp/impdp)命令举例(下)
+http://www.cnblogs.com/threestone/p/4201065.html Windows Azure Cloud Service (12) PaaS之Web Role, Worker Role, Azure Storage Queue(下)
+http://www.cnblogs.com/dongdonggege/p/4530967.html vs2013编译项目去掉warning信息
+http://www.cnblogs.com/yayanyang/p/4530945.html gsmake2.0设计综述
+http://www.cnblogs.com/tonge/p/4530935.html 解锁windowsphone设备遇到的错误：检查Miscrosoft账户凭据、请重新注册 0x80004005 解决方案
+http://www.cnblogs.com/D-Key/p/4530876.html Jcoco的简单使用介绍
+http://www.cnblogs.com/lideng/p/4530856.html JQuery 在网页中查询
+http://www.cnblogs.com/qingche/p/4530826.html iOS- 如何建立索引实现本地文本搜索引擎，允许容错搜索？
+http://www.cnblogs.com/HouZhiHouJueBlogs/p/4530778.html 多线程系列之生产者和消费者问题
+http://www.cnblogs.com/stone-fly/p/4530762.html NodeJs学习笔记（四）---单元测试
+http://www.cnblogs.com/gaohongchen01/p/4530765.html Ubuntu12.04下Qt连接MySQL数据库
+http://www.cnblogs.com/cangqiongbingchen/p/4530747.html MyEclipse常用操作（二）
+http://www.cnblogs.com/wangmars/p/4530670.html android Sqlite多线程访问异常解决方案
+http://www.cnblogs.com/wohexiaocai/p/4530631.html C#根据CPU+磁盘标号来注册软件
+http://www.cnblogs.com/amazingyyc/p/4530634.html 最快速的“高斯”模糊算法（附Android源码）
+http://www.cnblogs.com/zuowj/p/4523075.html 关于Entity Framework中的Attached报错的完美解决方案
+http://www.cnblogs.com/strick/p/4523995.html PJAX实现
+http://www.cnblogs.com/ninechapter/p/4530345.html 16个behavior question 的面试官解析及tips（上）
+http://www.cnblogs.com/dudu/p/mac_dnx_build_run.html 在Mac上用自己编译出的DNX运行.NET程序
+http://www.cnblogs.com/dosboy/p/4530307.html 如何基于OM模型使用C#在程序中给SharePoint的BCS外部数据类型的字段赋值
+http://www.cnblogs.com/rossoneri/p/4530216.html [Android] Service服务详解以及如何使service服务不被杀死
+http://www.cnblogs.com/idoublewei/p/4529935.html 自动脚本工具新版 v2.0
+http://www.cnblogs.com/smartloli/p/4530117.html Kafka实战－入门
+http://www.cnblogs.com/powertoolsteam/p/Diving-into-OOP-Day-All-About-Access-Modifiers-in.html 深入浅出OOP（五）: C#访问修饰符(Public/Private/Protected/Internal/Sealed/Constants)
+http://www.cnblogs.com/lyandy/p/4530106.html iOS技巧、特性及规范
+http://www.cnblogs.com/front-Thinking/p/4529848.html ReactJS入门指南
+http://www.cnblogs.com/VolcanoCloud/p/4524518.html 《Entity Framework 6 Recipes》中文翻译系列 (28) ------ 第五章 加载实体和导航属性之测试实体是否加载与显式加载关联实体
+http://www.cnblogs.com/respawn/p/4529964.html `cocos2dx非完整` 开始自己的FW模块
+http://www.cnblogs.com/crucify-lee/p/4529906.html JavaScript 中创建对象的方法（读书笔记思维导图）
+http://www.cnblogs.com/lhrbest/p/4529780.html 【RMAN】TSPITR--RMAN表空间基于时间点的自动恢复
+http://www.cnblogs.com/watermoon2/p/4527218.html [Asp.net 5] Configuration-新一代的配置文件（接口定义与基础实现）
+http://www.cnblogs.com/songliquan/p/4523960.html IOS开发学习笔记032-UITableView 的编辑模式
+http://www.cnblogs.com/wang4517/p/4528432.html 移动端webapp自适应实践（css雪碧图制作小工具实践）图文并茂
+http://www.cnblogs.com/guizhouhehai/p/4529715.html AspNet.WebAPI.OData.ODataPQ实现WebAPI的分页查询服务-（个人拙笔）
+http://www.cnblogs.com/Coda/p/4529688.html Java知多少（74）基础类库
+http://www.cnblogs.com/zhou-yi/p/4529685.html WPF之换肤
+http://www.cnblogs.com/TomXu/p/4496462.html 解读ASP.NET 5 &amp; MVC6系列（11）：Routing路由
+http://www.cnblogs.com/fengwenit/p/4529648.html 用c#开发微信（5）自定义菜单设置工具 （在线创建）
+http://www.cnblogs.com/blog470130547/p/4529634.html 连载《一个程序猿的生命周期》-15.老婆怀孕，养家压力，离职请求
+http://www.cnblogs.com/chuyuhuashi/p/4475904.html (十二) 一起学 Unix 环境高级编程 (APUE) 之 进程间通信（IPC）
+http://www.cnblogs.com/jerehedu/p/4529587.html xUtils框架的使用详解
+http://www.cnblogs.com/idoudou/p/WebApi2PostMan.html WebAPI生成可导入到PostMan的数据
+http://www.cnblogs.com/slark/p/mvc5-ef6-bs3-get-started-client-side-validation.html MVC5 + EF6 + Bootstrap3 (16) 客户端验证
+http://www.cnblogs.com/xiadao521/p/4529508.html 应用程序框架实战三十八:项目示例VS解决方案的创建(一)
+http://www.cnblogs.com/lazycat-cz/p/4526642.html 盒模型
+http://www.cnblogs.com/q1ng/p/4529496.html PHP的MVC框架 深入解析
+http://www.cnblogs.com/htzan/p/4529404.html 关于JS的几点TIPS
+http://www.cnblogs.com/keguangqiang/p/4529293.html 手把手教你Linux服务器集群部署.net网站 - Linux系统安装和设置
+http://www.cnblogs.com/wangqiguo/p/4529250.html 手机数据抓包以及wireshark技巧
+http://www.cnblogs.com/tobecrazy/p/4529399.html selenium+testng+ant+jenkins 手记
+http://www.cnblogs.com/aspnetx/p/4529389.html [BI项目记]-文档版本管理笔记
+http://www.cnblogs.com/jyzhao/p/4476424.html Oracle Tuning 基础概述01 - Oracle 常见等待事件
+http://www.cnblogs.com/jpld/p/4529258.html 【数据分析 R语言实战】学习笔记 第七章 假设检验及R实现
+http://www.cnblogs.com/CodeSuperHero/p/4529241.html unity3d 点到向量的距离算法和判断点位于向量哪一侧的算法
+http://www.cnblogs.com/ty408/p/4529158.html 让你的web程序“动”起来。
+http://www.cnblogs.com/dulijuan/p/4529057.html 软件测试之-系统测试
+http://www.cnblogs.com/fuhuixiang/p/4529011.html 关于Web服务器的认识
+http://www.cnblogs.com/shijiayi/p/4528931.html 软件测试系列--集成测试
+http://www.cnblogs.com/zhouxuanyu/p/4528838.html Python笔记（四）
+http://www.cnblogs.com/lanwhy/p/4528750.html HTML5的简单使用
+http://www.cnblogs.com/qingteng1983/p/4526902.html 推荐一套.NET文档处理组件Spire.Office
+http://www.cnblogs.com/pingfan1990/p/4528603.html stylie工具轻松搞定css3抛物线动画
+http://www.cnblogs.com/kiven-code/p/4528576.html GDB调试器使用总结
+http://www.cnblogs.com/kevinOne/p/4528568.html Android网络编程系列 一 JavaSecurity之JSSE(SSL/TLS)
+http://www.cnblogs.com/xiaozhi_5638/p/4528551.html 谈系统骨架的建立——公司第四次交流会内容
+http://www.cnblogs.com/littlepanpc/p/4528494.html 如何给非AppCompatActivity添加Toolbar？--关于5.0新特性兼容5.0以下设备的探索
+http://www.cnblogs.com/hoodlum1980/p/4528486.html 高斯模糊算法的 C++ 实现
+http://www.cnblogs.com/mienreal/p/4528470.html 基于DDD的现代ASP.NET开发框架--ABP系列文章总目录（2015-6-8 22:05更新）
+http://www.cnblogs.com/mengdd/p/4528417.html Android Do not keep activities选项分析
+http://www.cnblogs.com/zd1994/p/4424329.html 听起来很吊的堆与栈其实也不过如此
+http://www.cnblogs.com/songcf/p/4528366.html 使用cocos2d-x制作 Texture unpacker
+http://www.cnblogs.com/ivictor/p/4528344.html 如何用Dummy实例执行数据库的还原和恢复
+http://www.cnblogs.com/constructor/p/4528184.html 自己的HTML5 播放器
+http://www.cnblogs.com/izhaogang/p/collector.html 垃圾收集器原理
+http://www.cnblogs.com/jerehedu/p/4527707.html IOS 生成本地验证码
+http://www.cnblogs.com/mahatmasmile/p/4527495.html 用VS开发PHP扩展
+http://www.cnblogs.com/VolcanoCloud/p/4523563.html 《Entity Framework 6 Recipes》中文翻译系列 (27) ------ 第五章 加载实体和导航属性之关联实体过滤、排序、执行聚合操作
+http://www.cnblogs.com/sunshine-anycall/p/4527831.html Swift:在Safari中打开App
+http://www.cnblogs.com/yurunmiao/p/4527834.html Hadoop Compression
+http://www.cnblogs.com/hippieZhou/p/4527818.html C#特性之数据类型
+http://www.cnblogs.com/janessasmith/p/4500999.html 前端规范大总结
+http://www.cnblogs.com/qicosmos/p/4527804.html 应该用bind+function取代虚函数吗？
+http://www.cnblogs.com/zergcom/p/4527779.html ASP.NET 5 入门 (3) – Logging
+http://www.cnblogs.com/lhb25/p/15-inspiring-examples-of-css-animation-on-codepen.html 赞！15个来自 CodePen 的酷炫 CSS 动画效果
+http://www.cnblogs.com/weidagang2046/p/fp-without-lambda-1.html Functional Programming without Lambda - Part 1 Functional Composition
+http://www.cnblogs.com/threestone/p/4527279.html Windows Azure Traffic Manager (6) 使用Traffic Manager，实现本地应用+云端应用的高可用
+http://www.cnblogs.com/guizhouhehai/p/4527634.html Nuget的使用笔记-（使用nuget发布dll到www.nuget.org）
+http://www.cnblogs.com/dongtianee/p/4525064.html 检验你的前端基础——Sit the test
+http://www.cnblogs.com/dsxniubility/p/4527524.html gif动图快速制作方法（附工具）
+http://www.cnblogs.com/digdeep/p/4525567.html 深入理解spring中的各种注解
+http://www.cnblogs.com/tangyanbo/p/4527411.html 自己写的开源MVC-easyMVC分享
+http://www.cnblogs.com/BaiYiShaoNian/p/4527388.html 这就是搜索引擎--读书笔记一
+http://www.cnblogs.com/dearsj001/p/WindowsIoTMBM_1.html Windows 10 IoT Serials 1 - 针对Minnow Board MAX的Windows 10 IoT开发环境搭建
+http://www.cnblogs.com/aoyeyuyan/p/4523509.html 帅的程序员选择专业，丑的程序员泛泛涉猎（求反方论战！）
+http://www.cnblogs.com/biwork/p/Datazen.html Microsoft 家族新成员 Datazen 移动BI 介绍
+http://www.cnblogs.com/smartloli/p/4527168.html 高可用Hadoop平台－Hue In Hadoop
+http://www.cnblogs.com/iamzhanglei/p/4527102.html AlloyRenderingEngine燃烧的进度条
+http://www.cnblogs.com/TomXu/p/4496456.html 解读ASP.NET 5 &amp; MVC6系列（10）：Controller与Action
+http://www.cnblogs.com/fengwenit/p/4527059.html 用c#开发微信 (4) 基于Senparc.Weixin框架的接收事件推送处理 （源码下载）
+http://www.cnblogs.com/strick/p/4524851.html JavaScript数据类型
+http://www.cnblogs.com/wushangjue/p/4526439.html AngularJS入门之数据绑定
+http://www.cnblogs.com/jerehedu/p/4527021.html android之官方导航栏ActionBar(三)之高仿优酷首页
+http://www.cnblogs.com/mushroom/p/4526912.html Redis系列(四)-低成本高可用方案设计
+http://www.cnblogs.com/asxinyu/p/dotnet_opensource_project.html 这些.NET开源项目你知道吗？让.NET开源来得更加猛烈些吧
+http://www.cnblogs.com/limingxi/p/4526518.html [javascript][翻译]使用javascript添加css rule
+http://www.cnblogs.com/stoneniqiu/p/4525032.html Wix 安装部署教程(十) --来，用WPF做个漂亮的安装界面
+http://www.cnblogs.com/yoyaprogrammer/p/eliminate_long_method.html 【重构】消除过长方法
+http://www.cnblogs.com/slark/p/mvc5-ef6-bs3-get-started-server-side-validation.html MVC5 + EF6 + Bootstrap3 (15) 应用ModelState和Data Annotation做服务器端数据验证
+http://www.cnblogs.com/cmt/p/4527000.html 上周热点回顾（5.18-5.24）
+http://www.cnblogs.com/VolcanoCloud/p/4522468.html 《Entity Framework 6 Recipes》中文翻译系列 (26) ------ 第五章 加载实体和导航属性之延缓加载关联实体和在别的LINQ查询操作中使用Include()方法
+http://www.cnblogs.com/xyczero/p/4526913.html 如何自定义RecycleView item的间距
+http://www.cnblogs.com/dojo-lzz/p/4526896.html 初探ECMAScript6
+http://www.cnblogs.com/hxsyl/p/4526888.html Matlab计算矩阵间距离
+http://www.cnblogs.com/jinsdu/p/4526858.html 非常好用的正则表达式&quot;\\s+&quot; - 匹配任意空白字符
+http://www.cnblogs.com/lishiyun19/p/4524765.html 为什么要学习和使用 C 语言？
+http://www.cnblogs.com/shijiayi/p/4526803.html 软件测试系列--系统测试
+http://www.cnblogs.com/benpao/p/4526801.html &lt;经验杂谈&gt;C#/.Net字符串操作方法小结
+http://www.cnblogs.com/mengda1027/p/4526767.html 《JavaScript高级程序设计》笔记——关于继承
+http://www.cnblogs.com/PengLee/p/4526352.html 数据分析——确定分析思路
+http://www.cnblogs.com/lyfh/p/4526572.html windows下socket学习（一）
+http://www.cnblogs.com/123-/p/4526546.html Hadoop1.2.1 伪分布式安装
+http://www.cnblogs.com/zuoyouchen/p/4526545.html Viterbi 算法无线通信信号处理Demo
+http://www.cnblogs.com/jacksu-tencent/p/4526535.html Spark Transformations介绍
+http://www.cnblogs.com/duhuo/p/4526538.html JSON与js对象序列化
+http://www.cnblogs.com/lkzcman/p/4526512.html canvas总结
+http://www.cnblogs.com/dulijuan/p/4526496.html 软件测试之-集成测试
+http://www.cnblogs.com/ssol/p/4526478.html HTML5使用总结（一）
+http://www.cnblogs.com/wspblog/p/4526460.html redhat 6 / centos 6 搭建Django环境
+http://www.cnblogs.com/trytocatch/p/enhanced-cas-in-jdk8.html java8中CAS的增强
+http://www.cnblogs.com/chengzish/p/4525852.html 【ASP.NET基础】客户端、服务器端的数据验证 + CKEditer
+http://www.cnblogs.com/kaituorensheng/p/4526149.html OpenLayers 案例一
+http://www.cnblogs.com/huangxincheng/p/4526214.html 用MsmqBinding投送message出现的一个灵异事件 【第二篇】
+http://www.cnblogs.com/likeandroid/p/4526087.html Android 中替代 sharedpreferences 工具类的实现
+http://www.cnblogs.com/kissazi2/p/4526055.html android-plugmgr源代码分析
+http://www.cnblogs.com/pengineer/p/4526047.html SQL 中的正则函数
+http://www.cnblogs.com/yuanking/p/4526032.html Bootstarp--全局CSS样式之表格
+http://www.cnblogs.com/NewIdea/p/deploy-storm-environment.html Storm系列（一）：搭建dotNet开发Storm拓扑的环境
+http://www.cnblogs.com/zhukunrong/p/4525955.html 一则线上MySql连接异常的排查过程
+http://www.cnblogs.com/iforever/p/4525859.html PHP扩展——C扩展实现滚动记录日志
+http://www.cnblogs.com/wuzhang/p/wuzhang20150524.html Unity 启动画面淡入淡出
+http://www.cnblogs.com/watermoon2/p/4525613.html [Asp.net 5] DependencyInjection项目代码分析4-微软的实现（4）
+http://www.cnblogs.com/haojuncong/p/4525763.html 【Swift】IOS开发中自定义转场动画
+http://www.cnblogs.com/HPhone/p/4525753.html 说一说，正常上线的流程
+http://www.cnblogs.com/xumengxuan/p/4525725.html javascript中的闭包
+http://www.cnblogs.com/RainbowInTheSky/p/4525714.html jquery.validate新的写法(jquery.validate1.13.js)
+http://www.cnblogs.com/litao1105/p/4525628.html kmeans聚类中的坑 基于R shiny 可交互的展示
+http://www.cnblogs.com/wubugui/p/4525610.html 【2D游戏引擎】那些年对游戏对象的思考
+http://www.cnblogs.com/goingmyway/p/4525609.html LeetCode ZigZag problem
+http://www.cnblogs.com/johannisberg/p/4525601.html 变身windows达人，用运行命令直接启动所有应用程序
+http://www.cnblogs.com/Richeir/p/4525593.html 使用GitHub For Windows托管Visual Studio项目
+http://www.cnblogs.com/liyunhua/p/4525358.html javascript  未来新方法的介绍
+http://www.cnblogs.com/jiekzou/p/4525498.html ASP.NET MVC4入门—2、第一个MVC程序
+http://www.cnblogs.com/chengzish/p/4523990.html 初识--Ajax &amp; Json
+http://www.cnblogs.com/wolf-sun/p/4525489.html mysql之count,max,min,sum,avg,celing，floor
+http://www.cnblogs.com/aspnetx/p/4525439.html [BI项目记]-搭建代码管理环境之云端
+http://www.cnblogs.com/VolcanoCloud/p/4521791.html 《Entity Framework 6 Recipes》中文翻译系列 (25) ------ 第五章 加载实体和导航属性之加载完整的对象图和派生类型上的导航属性
+http://www.cnblogs.com/kolbe/p/4525344.html java.util.logging.Logger日志生成过程浅析
+http://www.cnblogs.com/zergcom/p/4525334.html ASP.NET 5 (vNext) Linux部署
+http://www.cnblogs.com/xuanku/p/io_distribute.html 存储系统科普——分布式存储系统解决方案介绍
+http://www.cnblogs.com/asxinyu/p/Smart_Lottery_FootBall_DataBase_5.html 【原创】C#搭建足球赛事资料库与预测平台(5) 赔率数据表设计1
+http://www.cnblogs.com/microliang/p/4525264.html 最新(2015.5.24)android4.0 x86源码下载过程(ubuntu下命令行运行XX-NET翻墙，设置代理)
+http://www.cnblogs.com/antineutrino/p/4525224.html 又见浮点数精度问题
+http://www.cnblogs.com/jakey1991/p/4525160.html eclipse下对中文乱码问题的一些思考
+http://www.cnblogs.com/jyzhao/p/4522868.html Oracle简单常用的数据泵导出导入(expdp/impdp)命令举例(上)
+http://www.cnblogs.com/jpld/p/4525107.html 【数据分析 R语言实战】学习笔记 第六章 参数估计与R实现（下）
+http://www.cnblogs.com/0351jiazhuang/p/4525100.html 导航悬浮于顶部代码学习
+http://www.cnblogs.com/zzPrince/p/4525017.html Ajax跨域访问wcf服务中所遇到的问题总结。
+http://www.cnblogs.com/landiljy/p/4524925.html oracle11g 创建id自增长监听器的步骤与问题
+http://www.cnblogs.com/aspnetx/p/4524926.html [BI项目记]-搭建代码管理环境之客户端
+http://www.cnblogs.com/watermoon2/p/4523947.html [Asp.net 5] DependencyInjection项目代码分析4-微软的实现（3）
+http://www.cnblogs.com/blog470130547/p/4524910.html 连载《一个程序猿的生命周期》-10.在项目中忍受病魔的折磨
+http://www.cnblogs.com/aquastone/p/internet-thinking.html 互联网思维之我见
+http://www.cnblogs.com/tugenhua0707/p/4524877.html 逐渐深入地理解Ajax
+http://www.cnblogs.com/bigdataZJ/p/AngularJS2.html AngularJS入门心得2——何为双向数据绑定
+http://www.cnblogs.com/youngytj/p/4524763.html WPF/MVVM快速指引
+http://www.cnblogs.com/duhuo/p/4524759.html js对象小结
+http://www.cnblogs.com/hesitate/p/4524748.html Entity Framework With Mysql 之Code First
+http://www.cnblogs.com/sushe641639/p/4524686.html 《Gogoing》Alpha版使用说明
+http://www.cnblogs.com/fanfu1/p/4524647.html 黑马程序员【两种Ajax方法】
+http://www.cnblogs.com/nslogmeng/p/4524634.html (3/18)重学Standford_iOS7开发_Objective-C_课程笔记
+http://www.cnblogs.com/DebugLife/p/4524531.html 使用 Android Studio 跑新浪微博SDK Demo遇到的问题及解决
+http://www.cnblogs.com/VolcanoCloud/p/4521128.html 《Entity Framework 6 Recipes》中文翻译系列 (24) ------ 第五章 加载实体和导航属性之查询内存对象
+http://www.cnblogs.com/RGogoing/p/4523161.html Android学习笔记(第二篇)View中的五大布局
+http://www.cnblogs.com/WJ5888/p/4516782.html Redis有序集内部实现原理分析
+http://www.cnblogs.com/ifner/p/4524401.html zigbee2007协议栈，串口使用，流程简要分析
+http://www.cnblogs.com/jasonbob/p/4524385.html java8+spring+angularjs 项目应用
+http://www.cnblogs.com/szhx/p/4510922.html SQL Server Insert操作中的锁
+http://www.cnblogs.com/daretodream2014/p/4523994.html 也记一次性能优化：LINQ to SQL中Contains方法的优化
+http://www.cnblogs.com/hxsyl/p/4523988.html Matlab中rand(&#39;state&#39;,sum(clock))解析
+http://www.cnblogs.com/nihaoCPP/p/4523946.html 你好，C++（39）6.4.4  依葫芦画瓢：用C++表达设计结果（下）
+http://www.cnblogs.com/chengzish/p/4507646.html ASP.NET 状态的传递和保存
+http://www.cnblogs.com/brolanda/p/4523896.html js冒泡事件的特例toggle无法实现阻止冒泡——slideDown()和slideUp()
+http://www.cnblogs.com/lingdhox/p/4523885.html nginx+jwplayer配置flv/MP4点播系统, 视频拖动支持
+http://www.cnblogs.com/zhankui/p/4523869.html 关于C#的微信开发的入门记录二
+http://www.cnblogs.com/aspnetx/p/4523707.html [BI项目记]-搭建代码管理环境之服务端
+http://www.cnblogs.com/visec479/p/4523700.html War文件部署
+http://www.cnblogs.com/yoyaprogrammer/p/spark_wordcount.html 【Spark大数据处理】动手写WordCount
+http://www.cnblogs.com/xuanku/p/io_fs.html 存储系统科普——文件系统介绍
+http://www.cnblogs.com/asxinyu/p/Smart_Lottery_FootBall_DataBase_4.html 【原创】C#搭建足球赛事资料库与预测平台(4) 比赛信息数据表设计
+http://www.cnblogs.com/aspnetx/p/4523468.html [BI项目记]-配置Sharepoint2013支持文档版本管理笔记
+http://www.cnblogs.com/canglin/p/4523405.html Fragment在《暗黑3天梯榜》中使用的场景
+http://www.cnblogs.com/VolcanoCloud/p/4519642.html 《Entity Framework 6 Recipes》中文翻译系列 (23) -----第五章 加载实体和导航属性之预先加载与Find()方法
+http://www.cnblogs.com/jpld/p/4523326.html 【数据分析 R语言实战】学习笔记 第六章 参数估计与R实现（上）
+http://www.cnblogs.com/xing901022/p/4523319.html Tomcat6.0 管理器配置
+http://www.cnblogs.com/yigedaizi/p/4523217.html 跟我一起学WPF（1）：WPF的UI设计语言——XAML
+http://www.cnblogs.com/zhouxuanyu/p/4523207.html Python笔记（三）
+http://www.cnblogs.com/yoyaprogrammer/p/fast_lanuch.html 你还在用这么low的方法打开软件吗？
+http://www.cnblogs.com/kewei/p/4522974.html Lucene.Net的服务器封装+APi组件 (开源）
+http://www.cnblogs.com/xishuai/p/4521557.html 手机适配浏览，所引发的一场“头脑风暴”
+http://www.cnblogs.com/mominger/p/4498156.html javascript基础-正则表达式
+http://www.cnblogs.com/wujy/p/4522493.html IOS关于LKDBHelper实体对象映射插件运用
+http://www.cnblogs.com/RGogoing/p/4517545.html Android学习笔记(第一篇)编写第一个程序Hello World+Activity
+http://www.cnblogs.com/PengLee/p/4521564.html Android UI 设计模式——应对搜索产生的空结果
+http://www.cnblogs.com/shijiayi/p/4522342.html 软件测试系列-软件质量
+http://www.cnblogs.com/songliquan/p/4522263.html IOS开发学习笔记031-代码实现微博界面
+http://www.cnblogs.com/wohexiaocai/p/4522046.html C# winform调用浏览器打开页面方法分享，希望对大家有帮助
+http://www.cnblogs.com/hxsyl/p/4521778.html 粒子群优化算法简介
+http://www.cnblogs.com/woodytu/p/4521590.html 理解统计信息（4/6）：自动更新统计信息的阀值——人为更新统计信息的重要性
+http://www.cnblogs.com/jimmytech/p/4521835.html Robot Framework 培训
+http://www.cnblogs.com/dandandeyoushangnan/p/4521804.html Nvelocity举例
+http://www.cnblogs.com/VolcanoCloud/p/4518398.html 《Entity Framework 6 Recipes》中文翻译系列 (22) -----第五章 加载实体和导航属性之延迟加载
+http://www.cnblogs.com/benhero/p/4521727.html Handler vs Timer,究竟该用哪个？
+http://www.cnblogs.com/dongweiq/p/4521655.html (原创)speex与wav格式音频文件的互相转换(二)
+http://www.cnblogs.com/littlepanpc/p/4521624.html Android 5.0自定义动画
+http://www.cnblogs.com/squirrel_sc/p/4521480.html 强人工智能基本问题：自上而下，还是自下而上。
+http://www.cnblogs.com/likailiche/p/4518827.html RabbitMQ（python实现）学习之三：Routing（接收端接收固定类型消息）
+http://www.cnblogs.com/TomXu/p/4496447.html 解读ASP.NET 5 &amp; MVC6系列（9）：日志框架
+http://www.cnblogs.com/fengwenit/p/4521413.html 用c#开发微信（3）基于Senparc.Weixin框架的接收普通消息处理 （源码下载）
+http://www.cnblogs.com/asxinyu/p/Spire_XLS_5_Chart.html 【原创】.NET读写Excel工具Spire.Xls使用(5)重量级的Excel图表功能
+http://www.cnblogs.com/Coda/p/4521357.html Java知多少（70）面向字节流的应用
+http://www.cnblogs.com/cuiyansong/p/4521124.html 舍弃Nunit拥抱Xunit
+http://www.cnblogs.com/crucify-lee/p/4521273.html JavaScript 中的闭包和作用域链（读书笔记）
+http://www.cnblogs.com/mushroom/p/4521221.html 探索C#之微型MapReduce
+http://www.cnblogs.com/guguli/p/4520921.html &lt;再看TCP/IP第一卷&gt;TCP/IP协议族中的最压轴戏----TCP协议及细节
+http://www.cnblogs.com/nalixueblog/p/4521104.html javascript定时器的那些事儿
+http://www.cnblogs.com/jiu0821/p/4521235.html lnline Hook初试
+http://www.cnblogs.com/likeandroid/p/4521185.html Volley 源码分析
+http://www.cnblogs.com/wubugui/p/4521174.html 2维FFT算法实现——基于GPU的基2快速二维傅里叶变换
+http://www.cnblogs.com/tugenhua0707/p/4520832.html html5获取地理位置信息API
+http://www.cnblogs.com/zhouxuanyu/p/4520811.html Python笔记（二）
+http://www.cnblogs.com/12taotie21/p/4520779.html Debug Diagnostics Tool创建.Net异常转储并用Windbg分析异常
+http://www.cnblogs.com/VolcanoCloud/p/4517099.html 《Entity Framework 6 Recipes》中文翻译系列 (21) -----第四章 ASP.NET MVC中使用实体框架之在页面中创建查询和使用ASP.NET URL路由过虑
+http://www.cnblogs.com/xiaohaoxuezhang/p/4520732.html 人生第一次面试---百度前端面试
+http://www.cnblogs.com/iforever/p/4520692.html 重新认识unicode和utf8编码
+http://www.cnblogs.com/hele-two/p/4520651.html Markdown 学习笔记
+http://www.cnblogs.com/tiger-xc/p/4520616.html 泛函编程（26）－泛函数据类型－Monad－Applicative Functor Traversal
+http://www.cnblogs.com/likailiche/p/4518823.html RabbitMQ（python实现）学习之二：Producer发送消息至多个消息队列queue（广播消息）
+http://www.cnblogs.com/hezhihao/p/4520347.html 从写死到写活
+http://www.cnblogs.com/liulun/p/4519815.html Nim教程【七】
+http://www.cnblogs.com/woodytu/p/4519477.html 理解统计信息（3/6）：谁创建和管理统计信息？在性能调优中，统计信息的作用。
+http://www.cnblogs.com/huangzelin/p/4520341.html 委托、匿名委托、Lambda 表达式、Expression表达式树之刨根问底
+http://www.cnblogs.com/songliquan/p/4520443.html IOS开发学习笔记030-xib实现淘宝界面
+http://www.cnblogs.com/unofficial/p/4520198.html angular实现了一个简单demo，angular-weibo-favorites
+http://www.cnblogs.com/binyue/p/4519858.html 关系数据库的范式和反范式设计
+http://www.cnblogs.com/sopic/p/4520132.html 纯Python综合图像处理小工具（1）分通道直方图
+http://www.cnblogs.com/icedream61/p/4518958.html Django笔记 —— 模板
+http://www.cnblogs.com/NatureSex/p/4520173.html MachineKey 操作 之 获取 MachineKey
+http://www.cnblogs.com/xcj26/p/4519725.html 应用程序的更新
+http://www.cnblogs.com/178mz/p/4519280.html SQL Server 字段类型 decimal(18,6)小数点前是几位？记一次数据库SP的BUG处理
+http://www.cnblogs.com/zy1987/p/4520118.html iOS视频开发经验
+http://www.cnblogs.com/wenBlog/p/4520095.html 关于事务的隔离级别和处理机制的理解
+http://www.cnblogs.com/ydch10086/p/4520084.html Java Socket编程
+http://www.cnblogs.com/leland/p/4519957.html JAVA(1)
+http://www.cnblogs.com/smartloli/p/4519914.html 高可用Hadoop平台－Ganglia安装部署
+http://www.cnblogs.com/tolimit/p/4519838.html 移植python笔记
+http://www.cnblogs.com/starof/p/4229017.html linux tar命令简介
+http://www.cnblogs.com/xd-elegant/p/4519783.html 用硬件（Verilog）实现二进制码和格雷码的转换
+http://www.cnblogs.com/jasonnode/p/4519778.html nodejs框架express实现登录
+http://www.cnblogs.com/Ronda2014/p/4519748.html iOS开发中关于Certification，appID，Provisioning Profiles的说明(图文)
+http://www.cnblogs.com/brolanda/p/4519718.html 签到模块
+http://www.cnblogs.com/nalixueblog/p/4519521.html javascript面向对象编程
+http://www.cnblogs.com/Henrya2/p/4519479.html 介绍Unreal Engine 4中的接口(Interface)使用C++和蓝图
+http://www.cnblogs.com/jingmoxukong/p/4506493.html [Spring]02_Spring框架和MVC原理
+http://www.cnblogs.com/ms-uap/p/4519382.html 微软颜龄Windows Phone版开发小记
+http://www.cnblogs.com/Ribbon/p/4519392.html 什么是算法？——算法轻松入门
+http://www.cnblogs.com/punkisnotdead/p/4519377.html Android数据库一些源码分析
+http://www.cnblogs.com/yjf512/p/4519371.html shell的历史
+http://www.cnblogs.com/chenmoit/p/4519362.html 用上GIT你一定会爱上他
+http://www.cnblogs.com/VolcanoCloud/p/4516011.html 《Entity Framework 6 Recipes》中文翻译系列 (20) -----第四章  ASP.NET MVC中使用实体框架之在MVC中构建一个CRUD示例
+http://www.cnblogs.com/woodytu/p/4518969.html 理解统计信息（2/6）：直方图
+http://www.cnblogs.com/ym123/p/4519030.html ACE服务端编程2：ACE跨平台之数据类型和宽字符
+http://www.cnblogs.com/muker715/p/4519012.html Django项目部署（阿里云）（1）--基本功能实现
+http://www.cnblogs.com/jianjianwoshi/p/4506268.html 图片查看器(可拖拽，缩放，轮播)
+http://www.cnblogs.com/TomXu/p/4496445.html 解读ASP.NET 5 &amp; MVC6系列（8）：Session与Caching
+http://www.cnblogs.com/miro/p/4518811.html MVC5+EF6 入门完整教程十
+http://www.cnblogs.com/likailiche/p/4509209.html RabbitMQ（python实现）学习之一：简单两点传输“Hello World”的实现
+http://www.cnblogs.com/chuyuhuashi/p/4468610.html (十一) 一起学 Unix 环境高级编程 (APUE) 之 高级 IO
+http://www.cnblogs.com/wangweimutou/p/4517951.html WCF初探-27：WCF中的实例化
+http://www.cnblogs.com/asxinyu/p/Smart_Lottery_FootBall_DataBase_3.html 【原创】C#搭建足球赛事资料库与预测平台(3) 基础数据表设计
+http://www.cnblogs.com/sunchong/p/4486761.html 垃圾回收机制，是不是这样理解？
+http://www.cnblogs.com/clockdotnet/p/4518672.html 自适应XAML布局经验总结 （二） 局部布局设计模式1
+http://www.cnblogs.com/BaiYiShaoNian/p/4518654.html Python学习总结之四 -- 这就是Python的字典
+http://www.cnblogs.com/hanzhaoxin/p/4518635.html 搭建可调试的微信公众平台本地测试环境
+http://www.cnblogs.com/leee/p/4516615.html ASP.NET MVC系列 框架搭建（三）之服务层的搭建
+http://www.cnblogs.com/hxsyl/p/4518506.html 彻底弄懂LSH之simHash算法
+http://www.cnblogs.com/tobecrazy/p/4516369.html selenium 配合sikuli script操作高德地图
+http://www.cnblogs.com/digdeep/p/4518571.html 深入剖析 Spring 框架的 BeanFactory
+http://www.cnblogs.com/VolcanoCloud/p/4517310.html 《Entity Framework 6 Recipes》中文翻译系列 目录篇 -持续更新
+http://www.cnblogs.com/xiadao521/p/4518516.html 应用程序框架实战三十七:Util最新代码更新说明
+http://www.cnblogs.com/selene/p/4518246.html JAVA常见面试题之Forward和Redirect的区别
+http://www.cnblogs.com/cliff/p/4518324.html Android线程池
+http://www.cnblogs.com/caokai520/p/4511848.html C# 正则表达式
+http://www.cnblogs.com/jeffwongishandsome/p/Sharing-A-Powerful-Tool-For-Service-Auto-Monitor.html Sharing A Powerful Tool For Application Auto Monitor
+http://www.cnblogs.com/PeunZhang/p/4518134.html 【原】为什么选择iPhone5的分辨率作为H5视觉稿尺寸
+http://www.cnblogs.com/QG-whz/p/4517336.html C++强制类型转换操作符 dynamic_cast
+http://www.cnblogs.com/zhouxuanyu/p/4518165.html Python笔记（一）
+http://www.cnblogs.com/lh218/p/4518149.html Message小结(二)
+http://www.cnblogs.com/songliquan/p/4518086.html IOS开发学习笔记029-反选、全选、删除按钮的实现
+http://www.cnblogs.com/liulun/p/4517707.html Nim教程【六】
+http://www.cnblogs.com/woodytu/p/4517401.html 理解统计信息（1/6）：密度向量
+http://www.cnblogs.com/fanfu1/p/4517478.html 黑马程序员【java中的IO流】
+http://www.cnblogs.com/h82258652/p/4517357.html 【Win10】开发中的新特性及原有的变更（二）
+http://www.cnblogs.com/mongo/p/4493910.html 设计模式-简单工厂
+http://www.cnblogs.com/chihane/p/4517196.html 基于Demo解析缓存工具DiskLruCache
+http://www.cnblogs.com/dyxd/p/4470875.html PowerShell的初步学习
+http://www.cnblogs.com/RGogoing/p/4516623.html JAVA jdbc(数据库连接池)学习笔记（二） SQL注入
+http://www.cnblogs.com/VolcanoCloud/p/4515073.html 《Entity Framework 6 Recipes》中文翻译系列 (19) -----第三章 查询之使用位操作和多属性连接(join)
+http://www.cnblogs.com/miloyip/p/4517053.html RapidJSON 代码剖析（二）：使用 SSE4.2 优化字符串扫描
+http://www.cnblogs.com/wushangjue/p/4516107.html AngularJS的Filter用法详解
+http://www.cnblogs.com/honghongming/p/4516962.html 自己动手开发更好用的markdown编辑器-07(扩展语法)
+http://www.cnblogs.com/yfsmooth/p/4516779.html java web解决表单重复提交问题
+http://www.cnblogs.com/pengineer/p/4516856.html Oracle之共享服务器模式
+http://www.cnblogs.com/ty408/p/4516851.html 你程序会做饭嘛？我能！
+http://www.cnblogs.com/liulun/p/4516625.html 博客园博客撰写工具【开源】（可以直接黏贴图片）
+http://www.cnblogs.com/wenBlog/p/4516683.html SQL Server中的锁的简单学习
+http://www.cnblogs.com/fireasy/p/4516527.html Fireasy与Asp.net MVC结合
+http://www.cnblogs.com/fengwenit/p/4516519.html 用c#开发微信（2）扫描二维码，用户授权后获取用户基本信息 （源码下载）
+http://www.cnblogs.com/yjf512/p/4516435.html Laravel5做权限管理
+http://www.cnblogs.com/ai-developers/p/4516421.html 基本组件的使用&mdash;&mdash;UINavigationController
+http://www.cnblogs.com/zhili/p/UnitOfWork.html [.NET领域驱动设计实战系列]专题四：前期准备之工作单元模式(Unit Of Work)
+http://www.cnblogs.com/iamzhanglei/p/4516337.html AlloyRenderingEngine文本框组件
+http://www.cnblogs.com/itsource/p/4516317.html Mybatis快速入门指南
+http://www.cnblogs.com/visec479/p/4516292.html CAS实现SSO单点登录原理
+http://www.cnblogs.com/TomXu/p/4496440.html 解读ASP.NET 5 &amp; MVC6系列（7）：依赖注入
+http://www.cnblogs.com/persist-confident/p/4515202.html javascript 模块化模式总结（二）
+http://www.cnblogs.com/yydcdut/p/4492220.html Android -- Property Animation
+http://www.cnblogs.com/yanweidie/p/4516164.html 在线文档预览方案-office web apps
+http://www.cnblogs.com/wangweimutou/p/4516224.html WCF初探-26：WCF中的会话
+http://www.cnblogs.com/asxinyu/p/4504487.html 一个从四秒到10毫秒，花了1年的算法问题？
+http://www.cnblogs.com/haorui/p/4516208.html [译文]c# /.Net 技巧: ToDictionary() and ToList()
+http://www.cnblogs.com/cuiyansong/p/4515884.html Javascript开发之工具归纳
+http://www.cnblogs.com/colinhou/p/4516121.html iOS开发笔记2：单例模式(singleton)
+http://www.cnblogs.com/htzan/p/4516057.html HTML5语义化标签
+http://www.cnblogs.com/SpongeBob-GitHub/p/4515981.html Swift-开发 # 1.2版本迁移
+http://www.cnblogs.com/VolcanoCloud/p/4514492.html 《Entity Framework 6 Recipes》中文翻译系列 (18) -----第三章 查询之结果集扁平化和多属性分组
+http://www.cnblogs.com/zhankui/p/4515905.html 关于C#的微信开发的入门记录一
+http://www.cnblogs.com/ahthw/p/4513438.html 第十九章：正则表达式的模式匹配
+http://www.cnblogs.com/wingyip/p/4513752.html Android Espresso(UI自动化测试)的搭建
+http://www.cnblogs.com/iforever/p/4515482.html 第一个有点作用的PHP扩展
+http://www.cnblogs.com/hukezhu/p/4515818.html ios开发-UI基础-应用管理(单纯界面)改进5-使用代理实现监听下载按钮的点击(delegate)
+http://www.cnblogs.com/dreling/p/4515698.html 快速构建ASP.NET MVC Admin主页
+http://www.cnblogs.com/QG-whz/p/4513136.html C++强制类型转换操作符 const_cast
+http://www.cnblogs.com/jpld/p/4515172.html 《Python基础教程》 读书笔记 第五章（下）循环语句
+http://www.cnblogs.com/PengLee/p/4512889.html Android UI 设计模式——排序和筛选
+http://www.cnblogs.com/xuyubing/p/4515560.html 让C#开发更简单,抽象增删改
+http://www.cnblogs.com/RGogoing/p/4515521.html JAVA jdbc(数据库连接池)学习笔记（一）
+http://www.cnblogs.com/Alandre/p/4515323.html JavaEE 要懂的小事：一、图解Http协议
+http://www.cnblogs.com/zuowj/p/4514230.html 关于Entity Framework自动关联查询与自动关联更新导航属性对应的实体注意事项说明
+http://www.cnblogs.com/woodytu/p/4513562.html 索引碎片
+http://www.cnblogs.com/dongweiq/p/4515186.html (原创)speex与wav格式音频文件的互相转换
+http://www.cnblogs.com/nil2inf/p/4515177.html Core Java笔记 9.集合(I) - 使用
+http://www.cnblogs.com/WhiteCusp/p/4502961.html Web APP开发技巧总结
+http://www.cnblogs.com/nyzhai/p/4515102.html Neo4j创建自动索引
+http://www.cnblogs.com/chayangge/p/4515088.html 【翻译】理念:无冲突的扩展本地DOM原型
+http://www.cnblogs.com/SpongeBob-GitHub/p/4510223.html iOS:  总结
+http://www.cnblogs.com/lihuidashen/p/4511469.html 乾坤合一~Linux设备驱动之I2C核心、总线以及设备驱动
+http://www.cnblogs.com/VolcanoCloud/p/4513791.html 《Entity Framework 6 Recipes》中文翻译系列 (17) -----第三章 查询之分页、过滤和使用DateTime中的日期部分分组
+http://www.cnblogs.com/xiaozhi_5638/p/4514911.html 谷歌百度翻译器
+http://www.cnblogs.com/binyue/p/4513577.html Servlet的多线程和线程安全
+http://www.cnblogs.com/constantince/p/4514828.html javascript的执行和预解析
+http://www.cnblogs.com/nhsd/p/4514819.html 利用MVC Chart 打造后台图表、前端图表
+http://www.cnblogs.com/jerehedu/p/4514772.html Android官方导航栏ActionBar（二）—— Action View、Action Provider、Navigation Tabs的详细用法
+http://www.cnblogs.com/leee/p/4513498.html ASP.NET MVC系列 框架搭建（二）之仓储层的优化
+http://www.cnblogs.com/xiaomanon/p/4514401.html Linux作业控制
+http://www.cnblogs.com/jpld/p/4514214.html 【数据分析 R语言实战】学习笔记 第五章 数据的描述性分析（下）
+http://www.cnblogs.com/axes/p/4514199.html nodejs实现Websocket的数据接收发送
+http://www.cnblogs.com/liulun/p/4514077.html Nim教程【五】
+http://www.cnblogs.com/yurunmiao/p/4514017.html Hadoop FileInputFormat实现原理及源码分析
+http://www.cnblogs.com/yizihan/p/4498496.html (二)在实战中使用Sass和Compass
+http://www.cnblogs.com/itsource/p/4513860.html 用起来超爽的Maven——进阶篇
+http://www.cnblogs.com/wushangjue/p/4513342.html WPF快速实现XML可视化编辑工具
+http://www.cnblogs.com/SpongeBob-GitHub/p/4513444.html iOS # Charles拦截封包
+http://www.cnblogs.com/yayanyang/p/4513789.html gslang——原生golang/RPC描述语言简介
+http://www.cnblogs.com/VolcanoCloud/p/4512954.html 《Entity Framework 6 Recipes》中文翻译系列 (16) -----第三章 查询之左连接和在TPH中通过派生类排序
+http://www.cnblogs.com/smartloli/p/4513767.html 高可用Hadoop平台－HBase集群搭建
+http://www.cnblogs.com/powertoolsteam/p/PD_Thirdparty_login.html ASP.NET MVC中三方登录: 微软、谷歌、Office365
+http://www.cnblogs.com/TomXu/p/4496435.html 解读ASP.NET 5 &amp; MVC6系列（6）：Middleware详解
+http://www.cnblogs.com/jerehedu/p/4513573.html IOS 实现界面本地化（国际化）
+http://www.cnblogs.com/Coda/p/4513550.html Java知多少（67）面向字符的输入流
+http://www.cnblogs.com/asxinyu/p/Smart_Lottery_FootBall_DataBase_2.html 【原创】C#搭建足球赛事资料库与预测平台(2) 数据库与XCode组件
+http://www.cnblogs.com/dengzhuli/p/4513459.html transform3D实现翻页效果
+http://www.cnblogs.com/lh218/p/4513434.html Message小结(一)
+http://www.cnblogs.com/leee/p/4513420.html ASP.NET MVC系列 框架搭建（一）之仓储层的搭建
+http://www.cnblogs.com/lh218/p/4513434.html Message小结(一)
+http://www.cnblogs.com/leee/p/4513420.html ASP.NET MVC系列 框架搭建（一）之仓储层的搭建
+http://www.cnblogs.com/ty408/p/4513401.html Game中的状态机
+http://www.cnblogs.com/wuhuacong/p/4513376.html Entity Framework 实体框架的形成之旅--界面操作的几个典型的处理（8）
+http://www.cnblogs.com/zhongshanblog/p/4513395.html 以正方教务系统为例，用php模拟登陆抓取课表、空教室
+http://www.cnblogs.com/lanston/p/use_dbms_scheduler_explain_job.html 使用DBMS_SCHEDULER包管理计划任务
+http://www.cnblogs.com/jpld/p/4513329.html 【数据分析 R语言实战】学习笔记 第五章  数据的描述性分析（上）
+http://www.cnblogs.com/songliquan/p/4509200.html IOS开发学习笔记028-UITableView单组数据显示代码优化
+http://www.cnblogs.com/bnbqian/p/4513192.html Async/Await 最佳实践
+http://www.cnblogs.com/jingmoxukong/p/4513059.html [Java IO]01_File类和RandomAccessFile类
+http://www.cnblogs.com/wuxiaohui/p/4513052.html .NET实现webservice简单实例
+http://www.cnblogs.com/lfk-dsk/p/4510514.html Android+Sqlite 实现古诗阅读应用（二）
+http://www.cnblogs.com/SpongeBob-GitHub/p/4493435.html ［ Alcatraz ］管理Xcode插件
+http://www.cnblogs.com/VolcanoCloud/p/4511789.html 《Entity Framework 6 Recipes》中文翻译系列 (15) -----第三章 查询之与列表值比较和过滤关联实体
+http://www.cnblogs.com/zhouxuanyu/p/4512944.html 认识C中的结构体
+http://www.cnblogs.com/skylar/p/browser-http-caching.html 透过浏览器看HTTP缓存
+http://www.cnblogs.com/JustYong/p/4511955.html SQL SERVER技术内幕之5 表表达式
+http://www.cnblogs.com/lasgalen/p/4512755.html 实验 snort安装配置与规则编写
+http://www.cnblogs.com/zjrodger/p/4512732.html 【MySql】权限不足导致的无法连接到数据库以及权限的授予和撤销
+http://www.cnblogs.com/nslogmeng/p/4512707.html (1/18)重学Standford_iOS7开发_iOS概述_课程笔记
+http://www.cnblogs.com/xiaoruo/p/4512705.html 梳理javascript原型整体思路
+http://www.cnblogs.com/digdeep/p/4512368.html Spring, MyBatis 多数据源的配置和管理
+http://www.cnblogs.com/memento/p/4512371.html [Silverlight] 优化C1FlexGrid单元格边框
+http://www.cnblogs.com/chenzhao207/p/4506845.html CC2541蓝牙学习——定时器3和定时器4
+http://www.cnblogs.com/zlzly/p/4512244.html windows 使用vsCode开发MVC项目所需准备（附所需安装文件）
+http://www.cnblogs.com/IT-Bear/p/4512272.html 回乡发展，对于我们而言或许是个温暖的选择
+http://www.cnblogs.com/yizihan/p/4498479.html (一)认识Sass和Compass
+http://www.cnblogs.com/wushangjue/p/4508764.html AngularJS自定义Directive
+http://www.cnblogs.com/zhanlang96/p/4512082.html unity3d Hair real time rendering  真实头发实时渲染
+http://www.cnblogs.com/nsky/p/4511861.html 网络编程之Socket的TCP协议实现客户端与客户端之间的通信
+http://www.cnblogs.com/asxinyu/p/Smart_Lottery_Training_3.html 足彩基础知识入门(3)足彩赔率的本质
+http://www.cnblogs.com/highsea90/p/4512019.html Mongodb For Mac OSX &amp;&amp; 登录验证
+http://www.cnblogs.com/SpongeBob-GitHub/p/4493280.html MAC小技巧
+http://www.cnblogs.com/VolcanoCloud/p/4509420.html 《Entity Framework 6 Recipes》中文翻译系列 (14) -----第三章 查询之查询中设置默认值和存储过程返回多结果集
+http://www.cnblogs.com/lippi/p/android_custom_view.html Android自定义视图教程
+http://www.cnblogs.com/JustYong/p/4511133.html SQL SERVER技术内幕之4 子查询
+http://www.cnblogs.com/jiekzou/p/4508841.html ASP.NET MVC搭建项目后台UI框架—5、Demo演示Controller和View的交互
+http://www.cnblogs.com/ruochenchen/p/4511579.html 用python验证蒙提霍尔问题
+http://www.cnblogs.com/wangweimutou/p/4511524.html WCF初探-25：WCF中使用XmlSerializer类
+http://www.cnblogs.com/xishuai/p/ddd-theme-activity-part-one.html DDD 主题交流会总结及计划
+http://www.cnblogs.com/HPhone/p/4511319.html Linux 两组信号对比
+http://www.cnblogs.com/popapa/p/android_calendar-provider.html Android开发-API指南- Calendar Provider
+http://www.cnblogs.com/cliff/p/4511293.html Android屏幕适配(分辨率适配)
+http://www.cnblogs.com/yydcdut/p/4491482.html Android -- onMeasure
+http://www.cnblogs.com/GongQi/p/4509788.html Javascript语言精粹之String常用方法分析
+http://www.cnblogs.com/scorpiozj/p/4511173.html 仿手机iPhone QQ消息小红点动画1
+http://www.cnblogs.com/ivictor/p/4480905.html 《Administrator&#39;s Guide》之Managing Memory
+http://www.cnblogs.com/jerehedu/p/4511107.html IOS开发之地图导航
+http://www.cnblogs.com/squirrel_sc/p/4511096.html 强人工智能基本问题：神经网络分层还是不分层
+http://www.cnblogs.com/hangwei/p/4503973.html 流水线电子看板的设计与实现
+http://www.cnblogs.com/iamzhanglei/p/4511047.html observejs改善组件编程体验
+http://www.cnblogs.com/chuyuhuashi/p/4466304.html (十) 一起学 Unix 环境高级编程 (APUE) 之 线程控制
+http://www.cnblogs.com/xmfdsh/p/4511045.html Salesforce视图与控制器之间的交互
+http://www.cnblogs.com/cyq1162/p/4510710.html Excel导入导出的业务进化场景及组件化的设计方案（上）
+http://www.cnblogs.com/cmt/p/4511041.html 上周热点回顾（5.11-5.17）
+http://www.cnblogs.com/water-wjf/p/4506407.html iOS SQLite加密之SQLCipher
+http://www.cnblogs.com/Coda/p/4511026.html Java知多少（66）输入输出(IO)和流的概述
+http://www.cnblogs.com/TomXu/p/4496430.html 解读ASP.NET 5 &amp; MVC6系列（5）：Configuration配置信息管理
+http://www.cnblogs.com/Jack47/p/unicode-utf8-character_set-encoding.html 关于Unicode，字符集，字符编码，每个程序员都应该知道的事
+http://www.cnblogs.com/levenyes/p/4510096.html 对于程序员来说，“选择比努力更重要”是一句屁话
+http://www.cnblogs.com/shanyou/p/4510396.html 10年微软MVP路（如何成为一个MVP？）
+http://www.cnblogs.com/asxinyu/p/4494265.html 【经验】谈谈办证的那些事，献给那些即将毕业、或孩子上学等朋友
+http://www.cnblogs.com/SpongeBob-GitHub/p/4501766.html 开发者：网站 &amp; SDK
+http://www.cnblogs.com/herbertchina/p/4510949.html Git Extensions 和 Tortoisegit 到底是什么？Git For VS（Git For Visual Studio）（Visual Studio 中使用 Git）
+http://www.cnblogs.com/vitrox/p/4504899.html Python字符串格式化
+http://www.cnblogs.com/wubugui/p/4510299.html 【2D游戏引擎】WIP反思
+http://www.cnblogs.com/diligenceday/p/4504160.html JS模块化编程之加载器原理
+http://www.cnblogs.com/digdeep/p/4510875.html ThreadLocal 源码剖析
+http://www.cnblogs.com/jpld/p/4510743.html 《Python基础教程》 读书笔记 第五章（上）条件语句
+http://www.cnblogs.com/allenzheng/p/4510725.html Android APP安装后不在桌面显示图标的应用场景举例和实现方法
+http://www.cnblogs.com/John727/p/4510539.html ThinkPHP3.2.3验证码显示、刷新、校验
+http://www.cnblogs.com/jiekzou/p/4508707.html ASP.NET MVC搭建项目后台UI框架—4、tab多页签支持
+http://www.cnblogs.com/fzhilong/p/4510440.html Windows Server2012上使用Nginx做文件服务器
+http://www.cnblogs.com/averey/p/4501660.html 修改代码主题等，提高阅读体验
+http://www.cnblogs.com/selene/p/4506962.html 谈谈JAVA工程狮面试中经常遇到的面试题目------什么是MVC设计模式
+http://www.cnblogs.com/Chaobs/p/4510359.html 为什么会有这么多种程序设计语言？
+http://www.cnblogs.com/TomXu/p/4496423.html 解读ASP.NET 5 &amp; MVC6系列（4）：核心技术与环境配置
+http://www.cnblogs.com/SpongeBob-GitHub/p/4494460.html 编译 &amp; 预处理
+http://www.cnblogs.com/mike442144/p/4194651.html 网页爬虫的构建（一）
+http://www.cnblogs.com/lh218/p/4510179.html DataContractSerializer数据不一致下序列化
+http://www.cnblogs.com/mjy0724/p/4510148.html BestCoder Round #41 记。
+http://www.cnblogs.com/ljy2013/p/4510143.html zookeeper3.4.6的安装
+http://www.cnblogs.com/yexiaochai/p/4509472.html HTML5本地存储Localstorage
+http://www.cnblogs.com/PengLee/p/4509722.html Android UI 设计模式——搜索的设计
+http://www.cnblogs.com/yanweidie/p/4452526.html 我的前端学习历程
+http://www.cnblogs.com/yuanking/p/4510080.html Bootstrap--全局CSS样式之排版
+http://www.cnblogs.com/AndroidJotting/p/4510074.html Android二维码之创建
+http://www.cnblogs.com/hont/p/4510048.html 文件解析入门学习
+http://www.cnblogs.com/cchust/p/4510039.html MYSQL线程池总结
+http://www.cnblogs.com/jadeboy/p/4510007.html 使用Ldoc给Lua生成文档
+http://www.cnblogs.com/goga21cn/p/EXT-NET-GRID.html Ext.Net-Grid 篇
+http://www.cnblogs.com/mannyzhoug/p/WebSphere-donot-start-from-service-at-windows-plant.html 为什么WebSphere好好的,他就不干活了?
+http://www.cnblogs.com/shanyou/p/4509980.html CentOS 7 上部署Mono 4 和Jexus 5.6
+http://www.cnblogs.com/chub/p/4509921.html python保留指定文件、删除目录其他文件的功能(1)
+http://www.cnblogs.com/zyi1992/p/4509908.html ios开发：代理设计模式
+http://www.cnblogs.com/dojo-lzz/p/4509816.html 作用域、闭包、内存泄露
+http://www.cnblogs.com/GongQi/p/4508880.html Javascript语言精粹之Array常用方法分析
+http://www.cnblogs.com/yy-hh/p/4509748.html html5的发展历程和由此引起的政治斗争
+http://www.cnblogs.com/QG-whz/p/4509710.html C++强制类型转换操作符 static_cast
+http://www.cnblogs.com/lihuidashen/p/4508674.html 乾坤合一~Linux设备驱动之终端设备驱动
+http://www.cnblogs.com/xuanku/p/virtual.html 虚拟化技术科普
+http://www.cnblogs.com/woodytu/p/4509673.html 索引深入浅出(8/10)：覆盖索引或列包含
+http://www.cnblogs.com/jiekzou/p/4508638.html ASP.NET MVC搭建项目后台UI框架—3、面板折叠和展开
+http://www.cnblogs.com/xiaofeixiang/p/4509665.html iOS开发-UITextView实现PlaceHolder的方式
+http://www.cnblogs.com/cuish/p/4509638.html DLL中导出ANSI和UNICODE函数
+http://www.cnblogs.com/Aralic/p/4508905.html 浅析js中的继承
+http://www.cnblogs.com/HPhone/p/4509493.html JS的定时到底有多不准
+http://www.cnblogs.com/guoyuanwei/p/4509475.html 负载均衡的mariadb集群搭建
+http://www.cnblogs.com/Coda/p/4509451.html Java知多少（65）线程的挂起、恢复和终止
+http://www.cnblogs.com/smilepeter/p/4509419.html C#+ArcEngine10.0+SP5实现鼠标移动动态显示要素属性信息
+http://www.cnblogs.com/tcjiaan/p/4509374.html 【Win 10应用开发】实现全屏播放的方法
+http://www.cnblogs.com/SpongeBob-GitHub/p/4494332.html 归并排序 &amp; 快速排序
+http://www.cnblogs.com/VolcanoCloud/p/4508057.html 《Entity Framework 6 Recipes》中文翻译系列 (13) -----第三章 查询之使用Entity SQL
+http://www.cnblogs.com/asxinyu/p/Smart_Lottery_Training_2.html 足彩基础知识入门(2)足彩的玩法介绍
+http://www.cnblogs.com/tianxue/p/4509286.html 记年初我的三次笔试
+http://www.cnblogs.com/ddzj/p/4509184.html KMP算法思路总结
+http://www.cnblogs.com/huruda/p/4509182.html 窗外大雨，心里小雨
+http://www.cnblogs.com/jingwhale/p/4509160.html 前端技术-调试工具（下）
+http://www.cnblogs.com/coderzh/p/ThinkingAndLearning.html 读《程序员的思维训练》
+http://www.cnblogs.com/jiekzou/p/4508513.html ASP.NET MVC搭建项目后台UI框架—2、菜单特效
+http://www.cnblogs.com/SpongeBob-GitHub/p/4501825.html 算法 &amp; 分析 (收集)
+http://www.cnblogs.com/cheukyin/p/4508987.html CSAPP Lab2: Binary Bomb
+http://www.cnblogs.com/tugenhua0707/p/4508986.html Javascript中的Form表单知识点总结
+http://www.cnblogs.com/BaiYiShaoNian/p/4508943.html Python学习总结之三 -- 优雅的字符串
+http://www.cnblogs.com/jpld/p/4508863.html 【数据分析 R语言实战】学习笔记 第四章 数据的图形描述
+http://www.cnblogs.com/dctechnology/p/4508037.html Swift基础语法（一）
+http://www.cnblogs.com/likeandroid/p/4508814.html Volley 的使用以及自定义Request
+http://www.cnblogs.com/AndroidJotting/p/4508805.html 微信5.0之Fragment使用
+http://www.cnblogs.com/breezelee/p/4508785.html CUDA学习笔记一
+http://www.cnblogs.com/h82258652/p/4508777.html 【Win10】开发中的新特性及原有的变更
+http://www.cnblogs.com/jingwhale/p/4508774.html 前端技术-调试工具（上）
+http://www.cnblogs.com/liulun/p/4507925.html Nim教程【四】
+http://www.cnblogs.com/zechau/p/4505310.html 我们还需要兼容IE样式问题吗？
+http://www.cnblogs.com/RGogoing/p/4507997.html JAVA 反射机制....
+http://www.cnblogs.com/PengLee/p/4507899.html Android UI 设计模式——主屏幕应该注意的问题
+http://www.cnblogs.com/songliquan/p/4507556.html IOS开发学习笔记027-UITableView 使用模型对象
+http://www.cnblogs.com/Lalafengchui/p/4508505.html Windows下静态库、动态库的创建和调用过程
+http://www.cnblogs.com/mengjie94/p/4508667.html 结对项目一记事本
+http://www.cnblogs.com/hellokitty1/p/4508654.html Java Graphics 图形绘制
+http://www.cnblogs.com/shenghl/p/4508653.html QT中自定义系统托盘的实现—c++语言为例
+http://www.cnblogs.com/zhangchunfang/p/4508643.html 结对项目一记事本
+http://www.cnblogs.com/zhouxuanyu/p/4508641.html C中存储类、链接和内存管理
+http://www.cnblogs.com/coder2012/p/4508602.html 决策树
+http://www.cnblogs.com/zuowj/p/4508587.html 阅读《LEARNING HARD C#学习笔记》知识点总结与摘要五
+http://www.cnblogs.com/xiaosex/p/4508495.html 《黑客与画家》读书笔记
+http://www.cnblogs.com/dreling/p/4508363.html 开始写博客
+http://www.cnblogs.com/Aralic/p/4508383.html CSS预处理之Less
+http://www.cnblogs.com/jiekzou/p/4508392.html ASP.NET MVC搭建项目后台UI框架—1、后台主框架
+http://www.cnblogs.com/asxinyu/p/Smart_Lottery_Training_1.html 足彩基础知识入门(1)概述与介绍
+http://www.cnblogs.com/tbcaaa8/p/4507192.html Machine Learning 学习笔记 (4) —— 回归问题总结：广义线性模型
+http://www.cnblogs.com/frydsh/p/4507378.html WEP算法的安全性
+http://www.cnblogs.com/SpongeBob-GitHub/p/4507900.html 栈 &amp; 堆 |--&gt; 内存管理
+http://www.cnblogs.com/pflee/p/4507579.html 网站架构之架构演化
+http://www.cnblogs.com/yang-csharp/p/4508174.html 摩尔斯电码(Morse Code)Csharp实现
+http://www.cnblogs.com/JennyZhang-sharing/p/4508140.html 用 JSP 实现对文件的相关操作
+http://www.cnblogs.com/accordion/p/4508154.html grunt任务之seajs模块打包
+http://www.cnblogs.com/sky-heaven/p/4508147.html Linux内核驱动--mmap设备方法【原创】
+http://www.cnblogs.com/John727/p/4507956.html Yii2 基于RESTful架构的 advanced版API接口开发   配置、实现、测试
+http://www.cnblogs.com/zxxiaoxia/p/4508095.html Android 性能优化——之图片的优化
+http://www.cnblogs.com/VolcanoCloud/p/4507099.html 《Entity Framework 6 Recipes》中文翻译系列 (12) -----第三章 查询之使用SQL语句
+http://www.cnblogs.com/plutowang/p/4508025.html 设计模式-借还模式
+http://www.cnblogs.com/wuzhang/p/wuzhang20150516.html Unity 2D 跑酷道路动起来
+http://www.cnblogs.com/rufi/p/CanvasGames.html 用TypeScript开发了一个网页游戏引擎，开放源代码
+http://www.cnblogs.com/xiaokangzi/p/4492466.html RBM（受限玻尔兹曼机）
+http://www.cnblogs.com/allenhaozi/p/4507847.html PHP搭建简单暴力的mvc
+http://www.cnblogs.com/LBSer/p/4507829.html 如何设计实现一个地址反解析服务？
+http://www.cnblogs.com/PengLee/p/4507349.html Android UI 设计模式——欢迎页面的问题
+http://www.cnblogs.com/ai-developers/p/4507766.html ios应用程序结构
+http://www.cnblogs.com/liulun/p/4507663.html Nim教程【三】
+http://www.cnblogs.com/jingmoxukong/p/4503462.html [Spring]01_环境配置
+http://www.cnblogs.com/Darksun/p/4493026.html 验证码的认识和简单验证码的攻防
+http://www.cnblogs.com/ayqy/p/4507538.html JS自动化
+http://www.cnblogs.com/SpongeBob-GitHub/p/4495826.html [ 单例、代理 &amp; 通知 ]
+http://www.cnblogs.com/wolf-sun/p/4507590.html mysql之group by，order by
+http://www.cnblogs.com/RainbowInTheSky/p/4507560.html 对自己写程序学程序的感悟。
+http://www.cnblogs.com/weibaar/p/4506144.html R语言学习笔记之: 论如何正确把EXCEL文件喂给R处理
+http://www.cnblogs.com/yghost/p/4507187.html iScroll:对iScroll4 &amp; iScroll5修改源码，实现禁止下拉或上拉功能（附源码）
+http://www.cnblogs.com/songliquan/p/4507454.html IOS开发学习笔记026-UITableView的使用
+http://www.cnblogs.com/HuoAA/p/4507394.html 金蝶长沙2016实习生笔试题详解（部分）
+http://www.cnblogs.com/coder-chen/p/4496140.html TCP与UDP网络编程总结（一）
+http://www.cnblogs.com/xiaozefeng/p/Wechat_MiniWechat_0.html 【迷你微信】基于MINA、Hibernate、Spring、Protobuf的即时聊天系统：0.概述
+http://www.cnblogs.com/wuhuacong/p/4506951.html C#开发微信门户及应用(28)--微信“摇一摇&#183;周边”功能的使用和接口的实现
+http://www.cnblogs.com/Coda/p/4507307.html Java知多少（64）线程死锁
+http://www.cnblogs.com/jiu0821/p/4507281.html 裸函数naked解析
+http://www.cnblogs.com/SpongeBob-GitHub/p/4499245.html 博客园：CSS &amp; HTML
+http://www.cnblogs.com/dimmacro/p/4506714.html 基于Java软引用机制最大使用JVM堆内存并杜绝OutOfMemory
+http://www.cnblogs.com/bigdataZJ/p/AngularJS1.html AngularJS入门心得1——directive和controller如何通信
+http://www.cnblogs.com/dreamlofter/p/4507101.html Unity Shader——Writing Surface Shaders(3)——Surface Shader Lighting Examples
+http://www.cnblogs.com/VolcanoCloud/p/4493476.html 《Entity Framework 6 Recipes》中文翻译系列 (11) -----第三章 查询之异步查询
+http://www.cnblogs.com/lihuidashen/p/4506781.html 乾坤合一~Linux设备驱动之块设备驱动
+http://www.cnblogs.com/woodytu/p/4506883.html 索引深入浅出(7/10)：非唯一列上的非聚集索引
+http://www.cnblogs.com/wuhuacong/p/4506889.html Winform开发框架中实现同时兼容多种数据库类型处理
+http://www.cnblogs.com/jpld/p/4506870.html 【数据分析 R语言实战】学习笔记 第三章 数据预处理 （下）
+http://www.cnblogs.com/chenzhao207/p/4498842.html CC2541蓝牙学习——定时器1的捕获/比较功能
+http://www.cnblogs.com/zergcom/p/4506662.html ASP.NET 5 入门 (2) – 自定义配置
+http://www.cnblogs.com/kenkofox/p/4506592.html 【Fanvas技术解密】HTML5 canvas实现脏区重绘
+http://www.cnblogs.com/liulun/p/4506551.html Nim教程【二】
+http://www.cnblogs.com/jyzhao/p/4496084.html 任督二脉之Shell中的正则表达式
+http://www.cnblogs.com/luckynet/p/4506427.html 在Mac OS X上安装ASP.NET 5（译文）
+http://www.cnblogs.com/myresearch/p/mapreduce-compile-jar-run.html 使用命令行编译打包运行MapReduce程序
+http://www.cnblogs.com/littlepanpc/p/4506294.html Android开发Tips-1
+http://www.cnblogs.com/zmanone/p/4506295.html 64位Win7下安装并配置Python3的深度学习库：Theano
+http://www.cnblogs.com/jerehedu/p/4506244.html Android生成带图片的二维码
+http://www.cnblogs.com/hehaiyang/p/4495820.html 初学Nutch之简介与安装
+http://www.cnblogs.com/woodytu/p/4505699.html 索引深入浅出(6/10)：选择正确并合适的聚集索引键
+http://www.cnblogs.com/hxsyl/p/3080310.html Matlab求极限
+http://www.cnblogs.com/zuowj/p/4504130.html C# Winform 通过FlowLayoutPanel及自定义的编辑控件，实现快速构建C/S版的编辑表单页面
+http://www.cnblogs.com/wuzhang/p/wuzhang20150515.html Git服务器 gitweb与gitLab的区别
+http://www.cnblogs.com/YangFuShun/p/4505663.html 优化tableView性能（针对滑动时出现卡的现象）
+http://www.cnblogs.com/ms-uap/p/4389718.html 停车坐爱枫林晚
+http://www.cnblogs.com/VolcanoCloud/p/4492614.html 《Entity Framework 6 Recipes》中文翻译系列 (10) -----第二章 实体数据建模基础之两实体间Is-a和Has-a关系建模、嵌入值映射
+http://www.cnblogs.com/ayqy/p/4505552.html 用sass画蜗牛
+http://www.cnblogs.com/wangweimutou/p/4505447.html WCF初探-24：WCF序列化和反序列化
+http://www.cnblogs.com/huang0925/p/4505455.html 当我完善几年前的一个老项目时，我做了哪些改进
+http://www.cnblogs.com/bigboyLin/p/4505266.html 基于jquery的页面分屏切换模板
+http://www.cnblogs.com/496668219long/p/4504044.html iOS 初级数据持久化
+http://www.cnblogs.com/wdsunny/p/4497841.html Scrum&amp;Kanban在移动开发团队的实践 （二）
+http://www.cnblogs.com/TomXu/p/4496419.html 解读ASP.NET 5 &amp; MVC6系列（3）：项目发布与部署
+http://www.cnblogs.com/chuyuhuashi/p/4447817.html (九) 一起学 Unix 环境高级编程 (APUE) 之 线程
+http://www.cnblogs.com/zhanlang96/p/4505048.html unity3d Human skin real time rendering plus 真实模拟人皮实时渲染  plus篇
+http://www.cnblogs.com/xiaozefeng/p/Wechat_MiniWechat_11.html 【迷你微信】基于MINA、Hibernate、Spring、Protobuf的即时聊天系统：11.定制化Log输出
+http://www.cnblogs.com/wushangjue/p/4500158.html AngularJS常用Directives实例
+http://www.cnblogs.com/Coda/p/4505020.html Java知多少（63）线程间通信
+http://www.cnblogs.com/stoneniqiu/p/4502452.html Jquery Mobile 小结
+http://www.cnblogs.com/gxbk629/p/4504876.html 自定义java代码快捷生成器使用与问题解决
+http://www.cnblogs.com/wjszxli/p/4504854.html 把代码搬到Git Hub 吧（一）
+http://www.cnblogs.com/bbker/p/4504791.html 结对项目-增强型科学计算器
+http://www.cnblogs.com/hxsyl/p/3133426.html Recommender Systems协同过滤
+http://www.cnblogs.com/shine-lee/p/4504559.html python中的编码与解码
+http://www.cnblogs.com/PengLee/p/4504190.html Android  UI 设计模式——我们做的是什么
+http://www.cnblogs.com/jyzhao/p/4503138.html Linux同平台数据库整体物理迁移
+http://www.cnblogs.com/woodytu/p/4503697.html 索引深入浅出(5/10)：非聚集索引的B树结构在堆表
+http://www.cnblogs.com/zhoujinyi/p/4494472.html TokuDB 引擎安装测试
+http://www.cnblogs.com/ty408/p/4503917.html 一步一步开发Game服务器（三）加载脚本和服务器热更新（二）完整版
+http://www.cnblogs.com/lihuidashen/p/4501953.html 蜕变成蝶~Linux设备驱动之watchdog设备驱动
+http://www.cnblogs.com/liulun/p/4503828.html 开发人员面试题目分享（来看看不一样的面试题吧）【第二弹】
+http://www.cnblogs.com/nhsd/p/4503773.html EF5.0中的跨数据库操作
+http://www.cnblogs.com/PEPE/p/4503589.html 单线程vs多线程
+http://www.cnblogs.com/caishuhua226/p/4501224.html ETL控件学习之一从数据库导出数据到平面
+http://www.cnblogs.com/morvenhuang/p/4503478.html HBase + Kerberos 配置示例（一）
+http://www.cnblogs.com/toutou/p/4503470.html 玩转CSS3,嗨翻WEB前端,CSS3伪类元素详解/深入浅出[原创][5+3时代]
+http://www.cnblogs.com/woodyy/p/4503332.html 在三四线城市谈软件业务，及其他
+http://www.cnblogs.com/colinhou/p/4503314.html Windows7下Blend for Visual Studio 2012使用问题
+http://www.cnblogs.com/shanhe/p/4503212.html knockout 模型闭包 closespace，高内聚viewModel编写，event事件绑定
+http://www.cnblogs.com/byronic/p/4496020.html vue.js学习笔记（Directives）
+http://www.cnblogs.com/dynamic-xia/p/4502674.html 第一次尝试充血模型
+http://www.cnblogs.com/chengzi/p/4502748.html ios基础之UITableViewCell的重用（带示例原创）
+http://www.cnblogs.com/ludashi/p/4469540.html 算法导论之最大子段和
+http://www.cnblogs.com/myresearch/p/hadoop-Standalone-Pseudo-Distributed-operation.html Hadoop2.6.0单机/伪分布式安装
+http://www.cnblogs.com/zhili/p/SpecificationPattern.html [.NET领域驱动设计实战系列]专题三：前期准备之规约模式(Specification Pattern)
+http://www.cnblogs.com/kevinOne/p/4501013.html Android网络编程系列 一 TCP/IP协议族
+http://www.cnblogs.com/miloyip/p/4501153.html RapidJSON 代码剖析（一）：混合任意类型的堆栈
+http://www.cnblogs.com/521-bobo/p/4502523.html winform 打包部署
+http://www.cnblogs.com/496668219long/p/4499413.html iOS UI高级之网络编程（HTTP协议）
+http://www.cnblogs.com/ljy2013/p/4502506.html hadoop生态系统的详细介绍
+http://www.cnblogs.com/jpld/p/4502441.html 【数据分析 R语言实战】学习笔记  第一章 数据分析导引
+http://www.cnblogs.com/TomXu/p/4496407.html 解读ASP.NET 5 &amp; MVC6系列（2）：初识项目
+http://www.cnblogs.com/jerehedu/p/4502382.html 基于VLC的视频播放器
+http://www.cnblogs.com/wuzhang/p/wuzhang20150514.html Ubuntu12.04 Git 服务器详细配置
+http://www.cnblogs.com/Jusfr/p/4501844.html 实现可用的插件系统
+http://www.cnblogs.com/Coda/p/4502316.html Java知多少（62）线程同步
+http://www.cnblogs.com/woodytu/p/4499913.html 索引深入浅出(4/10)：非聚集索引的B树结构在聚集表
+http://www.cnblogs.com/wgp13x/p/4502178.html 关于Solr搜索标点与符号的中文分词你必须知道的（mmseg源码改造）
+http://www.cnblogs.com/yaozhenfa/p/4502012.html Xamarin.IOS之多视图
+http://www.cnblogs.com/buptzym/p/4501930.html 《高效程序员的修炼》 读书笔记
+http://www.cnblogs.com/tugenhua0707/p/4501843.html Javascript事件总结
+http://www.cnblogs.com/selene/p/4493311.html SqlServer基础之(触发器)
+http://www.cnblogs.com/averey/p/4499358.html 单例模式（Singleton）小记
+http://www.cnblogs.com/likeandroid/p/4501758.html Android 切换主题以及换肤的实现
+http://www.cnblogs.com/dulijuan/p/4501757.html Java之--Java语言基础组成—函数
+http://www.cnblogs.com/happylong/p/4501573.html 空指针带来的AV异常.
+http://www.cnblogs.com/496668219long/p/4496043.html iOS高级编程之XML，JSON数据解析
+http://www.cnblogs.com/wolf-sun/p/4492592.html mysql之select，insert，delete，update
+http://www.cnblogs.com/whatbeg/p/4469709.html 一道题浅谈【作业调度】与【进程调度】
+http://www.cnblogs.com/Soar1991/p/cyan-excel-and-npoi.html [Cyan之旅]使用NPOI实现Excel的导入导出,踩坑若干.
+http://www.cnblogs.com/accordion/p/4501118.html ReactJS分析之入口函数render
+http://www.cnblogs.com/jerehedu/p/4501082.html IOS开发之新浪微博OAuth2
+http://www.cnblogs.com/aoyeyuyan/p/4495933.html 程序员的经济学系列——你不可不知的生存智慧——第一篇：小X是要成为IT精英的男人！
+http://www.cnblogs.com/iforever/p/4500937.html 谈谈favicon和他带来的问题
+http://www.cnblogs.com/hxsyl/p/3201968.html 斯坦福数据挖掘Introduction
+http://www.cnblogs.com/cm4j/p/hot_deploy.html JAVA代码热部署，在线不停服动态更新
+http://www.cnblogs.com/manue1/p/4500767.html 基本IO操作--字节流
+http://www.cnblogs.com/sunhongtao/p/78682859d86aeb080603f03a9b3baa0c.html SQL 高级教程之约束
+http://www.cnblogs.com/zengda/p/4500684.html Spring动态切换多数据源解决方案
+http://www.cnblogs.com/PEPE/p/4500680.html OBS---环境配置之#include &lt;D3DX10.h&gt;报错
+http://www.cnblogs.com/binyue/p/4500578.html HTTP请求响应过程 与HTTPS区别
+http://www.cnblogs.com/ty408/p/4500459.html 初来乍到 Java 和 .Net  迭代器功能
+http://www.cnblogs.com/kevinOne/p/4500485.html Android网络编程系列 一 TCP/IP协议族之网际层
+http://www.cnblogs.com/tattoo/p/4500329.html jquery版结婚电子请帖
+http://www.cnblogs.com/dulijuan/p/4500429.html Java之--Java语言基础组成（关键字、标识符、注释、常量和变量、运算符）
+http://www.cnblogs.com/naaoveGIS/p/4500406.html 优化JS加载时间过长的一种思路
+http://www.cnblogs.com/lqstayreal/p/4500219.html Android ViewDragHelper源码解析
+http://www.cnblogs.com/skylar/p/css3-selector.html 神通广大的CSS3选择器
+http://www.cnblogs.com/wunaozai/p/4495441.html MinGW环境libssh2安装
+http://www.cnblogs.com/nixi8/p/4500060.html CURL与PHP-CLI的应用【CLI篇】
+http://www.cnblogs.com/chuyuhuashi/p/4441592.html (八) 一起学 Unix 环境高级编程 (APUE) 之 信号
+http://www.cnblogs.com/hlwyfeng/p/4500004.html 解决一道leetcode算法题的曲折过程及引发的思考
+http://www.cnblogs.com/RGogoing/p/4497816.html Mysql学习笔记（十四）备份与恢复
+http://www.cnblogs.com/pasoraku/p/4499921.html 用Razor做静态页面生成器
+http://www.cnblogs.com/wjiaonianhua/p/4499804.html 站在移动互联时代的十字路口上_deviceone
+http://www.cnblogs.com/imwtr/p/4499691.html WampServer 给电脑搭建apache服务器和php环境
+http://www.cnblogs.com/shanhe/p/4499554.html knockout 无容器绑定，多重foreach，获取当前 索引 父级索引
+http://www.cnblogs.com/yjf512/p/4499547.html postgres配置主从流复制
+http://www.cnblogs.com/xiaozefeng/p/Wechat_MiniWechat_9.html 【迷你微信】基于MINA、Hibernate、Spring、Protobuf的即时聊天系统：9.观察者模式
+http://www.cnblogs.com/tangyanbo/p/4499485.html 深入浅出Java分布式系统通信
+http://www.cnblogs.com/TomXu/p/4495251.html 解读ASP.NET 5 &amp; MVC6系列（1）：ASP.NET 5简介
+http://www.cnblogs.com/asxinyu/p/Smart_Lottery_FootBall_DataBase_1.html C#搭建足球赛事资料库与预测平台(1) 基本介绍
+http://www.cnblogs.com/haohaoday/p/4496870.html 10分钟学会如何用compass 和sass
+http://www.cnblogs.com/jerehedu/p/4499323.html Android之官方导航栏ActionBar
+http://www.cnblogs.com/YikaJ/p/4499328.html 异步编程之co——源码分析
+http://www.cnblogs.com/fengwenit/p/4499319.html 用c#开发微信（1）服务号的服务器配置和企业号的回调模式 - url接入 （源码下载）
+http://www.cnblogs.com/goga21cn/p/Ext-NET-BASIC.html Ext.NET-基础篇
+http://www.cnblogs.com/Travel/p/4498293.html 使用File API 之FileReader 实现文件上传
+http://www.cnblogs.com/BaiYiShaoNian/p/4499143.html Python学习总结之二 -- 数据类型
+http://www.cnblogs.com/bluedoctor/p/4498066.html 将复杂查询写到SQL配置文件--SOD框架的SQL-MAP技术简介
+http://www.cnblogs.com/imwtr/p/4499108.html js 模拟手机页面文件的下拉刷新
+http://www.cnblogs.com/yaozhenfa/p/4499052.html Xamarin.IOS之快速入门
+http://www.cnblogs.com/tang-sword/p/4498907.html 我之面向对象观
+http://www.cnblogs.com/experdot/p/4494351.html 玩转你画我猜：程序实现自动绘图
+http://www.cnblogs.com/iforever/p/4498613.html PHP滚动日志
+http://www.cnblogs.com/codelove/p/4498850.html 产品管理之敏捷之路（一）——携手同行，走自己的敏捷之路
+http://www.cnblogs.com/woodytu/p/4498483.html 索引深入浅出(3/10)：聚集索引的B树结构
+http://www.cnblogs.com/OneAPM1/p/4498838.html 运维神器-分分钟定位500错误！
+http://www.cnblogs.com/cswuyg/p/4498804.html Flume使用小结
+http://www.cnblogs.com/yfsmooth/p/4498629.html 细节！重点！易错点！--面试java基础篇（一）
+http://www.cnblogs.com/foreach-break/p/hadoop_hdfs_pipeline.html 【Hadoop】HDFS - 创建文件流程详解
+http://www.cnblogs.com/wilber2013/p/4498309.html 给博客添加一个的目录
+http://www.cnblogs.com/loveis715/p/4491456.html 集成基于OAuth协议的单点登陆
+http://www.cnblogs.com/jeffwongishandsome/p/Sharing-A-Powerful-Tool-For-Calculate-Code-Lines.html Sharing A Powerful Tool For Calculate Code Lines
+http://www.cnblogs.com/lzb1096101803/p/4498498.html Eclipse部署Web项目(图文讲解)
+http://www.cnblogs.com/kaituorensheng/p/4493306.html python  xml.dom模块解析xml
+http://www.cnblogs.com/Aralic/p/4498333.html 浅析js中的闭包
+http://www.cnblogs.com/bugutian/p/4498324.html Linux Socket编程
+http://www.cnblogs.com/cj695/p/4498270.html 【泡咖啡1】linux下caffe编译以及python环境配置手记
+http://www.cnblogs.com/dreamlofter/p/4498205.html Unity Shader——Writing Surface Shaders(1)——Surface Shader Examples
+http://www.cnblogs.com/changfutao/p/4498094.html 跨服务器、跨数据库、多表联合查询
+http://www.cnblogs.com/tolimit/p/4495128.html linux中断源码分析 - 软中断(四)
+http://www.cnblogs.com/lihuidashen/p/4498025.html 蜕变成蝶~Linux设备驱动之按键设备驱动
+http://www.cnblogs.com/tiger-xc/p/4497731.html 泛函编程（25）－泛函数据类型－Monad－Applicative
+http://www.cnblogs.com/soaringEveryday/p/4495221.html Android WebView使用深入浅出
+http://www.cnblogs.com/honghongming/p/4497558.html 自己动手开发更好用的markdown编辑器-06(自动更新)
+http://www.cnblogs.com/wunaozai/p/4494536.html Socket网络编程--FTP客户端(1)(Windows)
+http://www.cnblogs.com/496668219long/p/4478921.html UITabelView 高级（自定义Cell）
+http://www.cnblogs.com/smartloli/p/4497507.html 高可用Hadoop平台－应用JAR部署
+http://www.cnblogs.com/mumuxinfei/p/4414281.html 台球游戏的核心算法和AI(1)
+http://www.cnblogs.com/zhaopei/p/4388279.html 开发自己的博客转发插件（跨域）
+http://www.cnblogs.com/fsjohnhuang/p/4490562.html .NET魔法堂：工程构建基石-&gt;MSBuild
+http://www.cnblogs.com/foreach-break/p/btree_rbtree.html 你好，树
+http://www.cnblogs.com/johnsony/p/EF6_CodeFirst_Sqlite.html EF6 Code First 完美支持Sqlite
+http://www.cnblogs.com/zisou/p/cocos2dx-js6.html 【Cocos2d-Js基础教学（6）网络层（弱联网）的封装及使用】
+http://www.cnblogs.com/constructor/p/4497023.html 纯CSS实现选项卡
+http://www.cnblogs.com/Aralic/p/4496982.html 浅析js中的this
+http://www.cnblogs.com/EminemJK/p/4496953.html 用C#开发ActiveX控件，并使用web调用
+http://www.cnblogs.com/xishuai/p/iddd-cqrs-samlpe.html IDDD 实现领域驱动设计－一个简单的 CQRS 示例
+http://www.cnblogs.com/nbkhic/p/4496824.html 如何在osx的终端下使用字典
+http://www.cnblogs.com/ayqy/p/4496806.html JS编程常识
+http://www.cnblogs.com/wdsunny/p/4493829.html QCon 2015 阅读笔记 - 其他精选主题
+http://www.cnblogs.com/gwm123/p/4496714.html 讨论Android开发中的MVC设计思想
+http://www.cnblogs.com/dreamlofter/p/4496579.html Unity Shader——Writing Surface Shaders(0)
+http://www.cnblogs.com/zhili/p/OnlineStorewithDDD.html [.NET领域驱动设计实战系列]专题二：结合领域驱动设计的面向服务架构来搭建网上书店
+http://www.cnblogs.com/yydcdut/p/4474064.html Android -- 自定义View
+http://www.cnblogs.com/496668219long/p/4492236.html Swift（二）控制流
+http://www.cnblogs.com/esestt/p/4495744.html 便宜有好货：Oracle免费的便捷Web应用开发框架
+http://www.cnblogs.com/liufanping/p/4489864.html 开源搜索引擎Iveely 0.8.0发布，终见天日
+http://www.cnblogs.com/xiayudashan/p/4488476.html 实践向字符编码的思考
+http://www.cnblogs.com/guguli/p/4496201.html &lt;再看TCP/IP第一卷&gt;关于网络层及协议细节---IP协议（2）--移动IP及DHCP
+http://www.cnblogs.com/haogj/p/4493240.html 在Mac OS X Yosemite 10.10.3 中搭建第一个 ASP.NET 5 Web 项目
+http://www.cnblogs.com/VolcanoCloud/p/4490841.html 《Entity Framework 6 Recipes》中文翻译系列 (9) -----第二章 实体数据建模基础之继承关系映射TPH
+http://www.cnblogs.com/diligenceday/p/4470813.html DOCTYPE是什么鬼？文档模式又是什么鬼？
+http://www.cnblogs.com/bitzhuwei/p/opengl-FAQ.html OpenGL快问快答
+http://www.cnblogs.com/jpld/p/4496017.html R in action读书笔记（22）第十六章 高级图形进阶（下）
+http://www.cnblogs.com/manue1/p/4495983.html Java中的日期操作
+http://www.cnblogs.com/lippi/p/gradle_dependency_management.html Gradle实战教程之依赖管理
+http://www.cnblogs.com/kaituorensheng/p/4494321.html linux定时执行脚本
+http://www.cnblogs.com/fkpj/p/4495913.html C程序与Lua脚本相互调用
+http://www.cnblogs.com/nicholaszjb/p/4495900.html npm package.json 配置文件
+http://www.cnblogs.com/now-fighting/p/4495841.html Python::re 模块 -- 在Python中使用正则表达式
+http://www.cnblogs.com/itred/p/4495832.html SpringMVC一路总结（三）
+http://www.cnblogs.com/linda586586/p/4495551.html 移动端页面布局相关问题
+http://www.cnblogs.com/tangyikejun/p/4495323.html Python 的字符编码
+http://www.cnblogs.com/496668219long/p/4475994.html UITableView 表视图编辑
+http://www.cnblogs.com/zisou/p/cocos2dx-js5.html 【Cocos2d-Js基础教学（5）资源打包工具的使用及资源的异步加载处理】
+http://www.cnblogs.com/shijiayi/p/4495118.html Java初认识--函数和数组
+http://www.cnblogs.com/w3chen/p/4495079.html Xshell和SecureCRT等SSH下使用Tmux及Byobu(解决Byobu被statusline信息面板刷屏问题)
+http://www.cnblogs.com/RGogoing/p/4495081.html Mysql学习笔记（十三）权限管理
+http://www.cnblogs.com/xinghuayang/p/JS_Equal_VS_IdentityEqual.html Java Script 中 ==（Equal) 和 === (Identity Equal) 的区别和比较算法逻辑
+http://www.cnblogs.com/wuzhang/p/wuzhang20150511.html Unity 读取CSV与Excel
+http://www.cnblogs.com/a284628487/p/4494669.html Android 自定义View实现多行RadioGroup (MultiLineRadioGroup)
+http://www.cnblogs.com/lfk-dsk/p/4494963.html 用pygame学习初级python（二） 15.5.11
+http://www.cnblogs.com/justnow/p/4487201.html 打造自己的视频会议系统 -- 原理篇 （附送GGMeeting 1.0 源码）
+http://www.cnblogs.com/AndroidJotting/p/4494813.html 电商刮刮卡开发基础准备
+http://www.cnblogs.com/encoding/p/4494733.html 呼叫中心事件模式的选择
+http://www.cnblogs.com/yurunmiao/p/4494582.html Yarn应用程序运行流程剖析
+http://www.cnblogs.com/VolcanoCloud/p/4489925.html 《Entity Framework 6 Recipes》中文翻译系列 (8) -----第二章 实体数据建模基础之继承关系映射TPT
+http://www.cnblogs.com/honghongming/p/4494282.html 自己动手开发更好用的markdown编辑器-05(粘贴上传图片)
+http://www.cnblogs.com/vamei/p/4494277.html 游泳，写作，编程：人生就是不停的纠结
+http://www.cnblogs.com/hxsyl/p/4493043.html 分布式对象和远程调用
+http://www.cnblogs.com/ms-uap/p/4485174.html UWP?UWP! - Build 2015有些啥?(2)
+http://www.cnblogs.com/wxb0328/p/4494047.html Application Cache
+http://www.cnblogs.com/hustskyking/p/hosts-modify.html 修改Hosts为何不生效，是DNS缓存？
