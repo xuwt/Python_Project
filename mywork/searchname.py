@@ -7,6 +7,15 @@ import string
 import time
 import random
 
+# 请求url前缀，可能会变
+url_prefix = 'http://pandavip.www.net.cn/check/checkdomain?callback=jQuery111106684873232152313_1445225493501&domain='
+# 域名后缀如.com
+domain_suffix = '.com'
+# 请求url后缀，会变
+url_suffix = domain_suffix + '&token=check-web-hichina-com%3A9b3ig5bf0rzmj9fsrzqi8mgfklaijb6d&_=1445225493520&isg2=ApKSQ7%2FoegWUhTpRjFs4kQT3Ykd0oJY-'
+
+# 域名位数
+domain_number = 4
 
 def GenName(length):
     #chars=string.letters+string.digits
@@ -15,8 +24,8 @@ def GenName(length):
     #return ''.join(random.sample(chars, length))#得出的结果中字符不会有重复的
 
 def searchName(): 
-    name = GenName(4).lower()
-    url = 'http://pandavip.www.net.cn/check/checkdomain?callback=jQuery111101182654588483274_1444966711520&domain=' + name + '.com&token=check-web-hichina-com%3Ak6ujxn7htsfqxag22in5ebcg0vovoiry&_=1444966711555&isg2=Ajg4TqGB8LPCZ6AfIpniw6QWiPnKqZwk'
+    name = GenName(domain_number).lower()
+    url =  url_prefix + name + url_suffix
     referer = 'http://wanwang.aliyun.com/domain/searchresult/?keyword=' + name + '&suffix=.com'
     headers = {'Referer':referer}
 
