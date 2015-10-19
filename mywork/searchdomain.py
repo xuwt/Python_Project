@@ -17,14 +17,31 @@ url_suffix = domain_suffix + '&token=check-web-hichina-com%3A9b3ig5bf0rzmj9fsrzq
 # 域名位数
 domain_number = 4
 
-def GenName(length):
+# 数字
+domain_digit = 2
+# 字母
+domain_char = 3
+
+def GenCharName(length):
     #chars=string.letters+string.digits
     chars=string.letters
-    return ''.join([random.choice(chars) for i in range(length)])#出的结果中字符会有重复的
-    #return ''.join(random.sample(chars, length))#得出的结果中字符不会有重复的
+
+    #出的结果中字符会有重复的
+    return ''.join([random.choice(chars) for i in range(length)])
+
+    #得出的结果中字符不会有重复的
+    #return ''.join(random.sample(chars, length))
+
+def GenName(digit_length , char_length):
+    digits = string.digits
+    chars = string.letters
+    
+    return ''.join([random.choice(digits) for i in range(digit_length)]) + ''.join([random.choice(chars) for i in range(char_length)])
+
+
 
 def searchName(): 
-    name = GenName(domain_number).lower()
+    name = GenCharName(5).lower()
     url =  url_prefix + name + url_suffix
     referer = 'http://wanwang.aliyun.com/domain/searchresult/?keyword=' + name + '&suffix=.com'
     headers = {'Referer':referer}
@@ -41,7 +58,7 @@ def searchName():
         for item in items:       
             print name ,':',item[0], '\n'
             if string.atoi(item[0]) == 1 : 
-                with open('name.txt','a') as f:
+                with open('domain.txt','a') as f:
                      f.write(name + '\n')          
         time.sleep(2) # 休眠1秒
     except urllib2.URLError, e:
