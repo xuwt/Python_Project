@@ -22,12 +22,12 @@ title: 域名Domain注册
 * 利用python模拟请求上图中的RequestURL就可以了，但是请求失败，看了下RequestHeader，有个Referer，试了下，就可以请求成功了。
 
 >   ```
-       jQuery111106684873232152313_1445225493501({"module":[{"avail":0,"name":"aklc.com","reason":"Domain exists","tld":"com"}],"success":"true"});
-        aklc : 0 
+    jQuery111106684873232152313_1445225493501({"module":[{"avail":0,"name":"aklc.com","reason":"Domain exists","tld":"com"}],"success":"true"});aklc : 0 
     ```
+    
 
 * 接下来只要用正则匹配拿到avail的值做一下判断就行了，是1的话，就把这个domain保存到txt文件中，具体代码在python文件中写的有，代码比较简单，不多说了。
 
 
 **注意**
-* 进行了多次测试发现，阿里那边会限制请求次数，如果请求不能用的话，就自己按我的方法重新抓一下URL，更改一下代码里面的请求URL的前缀和后缀就可以了。
+* 进行了多次测试发现，阿里那边会限制请求，也就是请求只能当天用第二天就不能用了，如果请求不能用的话，就自己按我的方法重新抓一下URL，更改一下代码里面的请求URL的前缀和后缀就可以了。

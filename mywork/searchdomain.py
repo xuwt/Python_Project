@@ -8,11 +8,11 @@ import time
 import random
 
 # 请求url前缀，可能会变
-url_prefix = 'http://pandavip.www.net.cn/check/checkdomain?callback=jQuery111106684873232152313_1445225493501&domain='
+url_prefix = 'http://pandavip.www.net.cn/check/checkdomain?callback=jQuery111106646687949541956_1445309700244&domain='
 # 域名后缀如.com
 domain_suffix = '.com'
 # 请求url后缀，会变
-url_suffix = domain_suffix + '&token=check-web-hichina-com%3A9b3ig5bf0rzmj9fsrzqi8mgfklaijb6d&_=1445225493520&isg2=ApKSQ7%2FoegWUhTpRjFs4kQT3Ykd0oJY-'
+url_suffix = domain_suffix + '&token=check-web-hichina-com%3Axbd71d42u45gthx30m72t8xm0s5nzbfq&_=1445309700287&isg2=AvDwDdO-ONvKn1j3mjG6HmMIQLBDdtSJ'
 
 # 域名位数
 domain_number = 4
